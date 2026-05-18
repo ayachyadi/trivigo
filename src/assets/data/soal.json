@@ -9562,5 +9562,486 @@
       "D": "-25"
     },
     "answer": "B"
+  },
+  {
+    "id": 801,
+    "category": "Sejarah",
+    "question": "Siapakah presiden pertama Amerika Serikat yang menjabat setelah konstitusi negara tersebut disahkan?",
+    "options": {
+      "A": "Thomas Jefferson",
+      "B": "George Washington",
+      "C": "Abraham Lincoln",
+      "D": "John Adams"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 802,
+    "category": "Sains",
+    "question": "Apakah nama planet yang posisinya paling dekat dengan Matahari di tata surya kita?",
+    "options": {
+      "A": "Merkurius",
+      "B": "Venus",
+      "C": "Mars",
+      "D": "Jupiter"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 803,
+    "category": "Olahraga",
+    "question": "Negara manakah yang berhasil menjuarai kompetisi Piala Dunia FIFA pada tahun 2022 di Qatar?",
+    "options": {
+      "A": "Prancis",
+      "B": "Brasil",
+      "C": "Kroasia",
+      "D": "Argentina"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 804,
+    "category": "Seni & Budaya",
+    "question": "Alat musik tradisional Angklung yang terbuat dari bambu berasal dari daerah mana di Indonesia?",
+    "options": {
+      "A": "Jawa Timur",
+      "B": "Jawa Barat",
+      "C": "Jawa Tengah",
+      "D": "Sumatera Barat"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 805,
+    "category": "Sains",
+    "question": "Komponen atau bagian dari sel darah manusia yang berfungsi mengikat oksigen adalah...",
+    "options": {
+      "A": "Leukosit",
+      "B": "Trombosit",
+      "C": "Hemoglobin",
+      "D": "Plasma darah"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 806,
+    "category": "Sejarah",
+    "question": "Pada tahun berapakah peristiwa Perang Dunia Pertama secara resmi dimulai?",
+    "options": {
+      "A": "1914",
+      "B": "1918",
+      "C": "1939",
+      "D": "1945"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 807,
+    "category": "Sastra",
+    "question": "Siapakah nama penulis asal Indonesia yang menulis novel legendaris berjudul 'Laskar Pelangi'?",
+    "options": {
+      "A": "Pramoedya Ananta Toer",
+      "B": "Tere Liye",
+      "C": "Andrea Hirata",
+      "D": "Dee Lestari"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 808,
+    "category": "Pengetahuan Umum",
+    "question": "Apa nama mata uang resmi yang digunakan oleh negara Korea Selatan?",
+    "options": {
+      "A": "Yen",
+      "B": "Yuan",
+      "C": "Ringgit",
+      "D": "Won"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 809,
+    "category": "Sains",
+    "question": "Zat hijau daun pada tumbuhan yang berfungsi penting dalam proses fotosintesis dinamakan...",
+    "options": {
+      "A": "Klorofil",
+      "B": "Karotenoid",
+      "C": "Stomata",
+      "D": "Sitoplasma"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 810,
+    "category": "Geografi",
+    "question": "Apakah nama danau vulkanik terbesar di Indonesia yang juga menjadi salah satu danau terbesar di dunia?",
+    "options": {
+      "A": "Danau Singkarak",
+      "B": "Danau Batur",
+      "C": "Danau Toba",
+      "D": "Danau Poso"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 811,
+    "category": "Sejarah",
+    "question": "Kota di Jepang yang pertama kali dijatuhi bom atom oleh pasukan sekutu Amerika Serikat pada tahun 1945 adalah...",
+    "options": {
+      "A": "Tokyo",
+      "B": "Nagasaki",
+      "C": "Osaka",
+      "D": "Hiroshima"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 812,
+    "category": "Pengetahuan Umum",
+    "question": "Berapakah jumlah helai bulu yang terdapat pada masing-masing sayap lambang negara Garuda Pancasila?",
+    "options": {
+      "A": "8",
+      "B": "17",
+      "C": "19",
+      "D": "45"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 813,
+    "category": "Sains",
+    "question": "Organ dalam tubuh manusia yang memiliki fungsi utama memompa darah ke seluruh tubuh adalah...",
+    "options": {
+      "A": "Paru-paru",
+      "B": "Hati",
+      "C": "Ginjal",
+      "D": "Jantung"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 814,
+    "category": "Olahraga",
+    "question": "Berapa menit durasi waktu normal dalam satu babak pertandingan olahraga sepak bola?",
+    "options": {
+      "A": "35 Menit",
+      "B": "40 Menit",
+      "C": "45 Menit",
+      "D": "50 Menit"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 815,
+    "category": "Seni & Budaya",
+    "question": "Rumah adat tradisional bernama 'Tongkonan' berasal dari suku dan provinsi mana?",
+    "options": {
+      "A": "Suku Toraja, Sulawesi Selatan",
+      "B": "Suku Minangkabau, Sumatera Barat",
+      "C": "Suku Dayak, Kalimantan Barat",
+      "D": "Suku Dani, Papua"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 816,
+    "category": "Pengetahuan Umum",
+    "question": "Hari Lahir Pancasila di Indonesia selalu diperingati secara nasional setiap tanggal Berapa?",
+    "options": {
+      "A": "1 Juni",
+      "B": "1 Oktober",
+      "C": "17 Agustus",
+      "D": "20 Mei"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 817,
+    "category": "Sains",
+    "question": "Dalam tabel periodik unsur kimia, apakah lambang resmi untuk unsur emas?",
+    "options": {
+      "A": "Ag",
+      "B": "Fe",
+      "C": "Au",
+      "D": "Cu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 818,
+    "category": "Sastra",
+    "question": "Siapakah nama pujangga terkenal asal Inggris yang menulis naskah drama tragedi romantis 'Romeo and Juliet'?",
+    "options": {
+      "A": "Charles Dickens",
+      "B": "William Shakespeare",
+      "C": "Mark Twain",
+      "D": "Jane Austen"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 819,
+    "category": "Geografi",
+    "question": "Apakah nama selat yang memisahkan antara Pulau Jawa dan Pulau Sumatera?",
+    "options": {
+      "A": "Selat Madura",
+      "B": "Selat Malaka",
+      "C": "Selat Bali",
+      "D": "Selat Sunda"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 820,
+    "category": "Pengetahuan Umum",
+    "question": "Apakah nama lembaga di bawah naungan PBB (WHO) yang bergerak secara khusus di bidang kesehatan dunia?",
+    "options": {
+      "A": "World Health Organization",
+      "B": "United Nations Children's Fund",
+      "C": "World Trade Organization",
+      "D": "International Labour Organization"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 821,
+    "category": "Sains",
+    "question": "Kelompok hewan yang memiliki kemampuan unik untuk hidup di dua alam (air dan darat) dikenal dengan istilah...",
+    "options": {
+      "A": "Reptil",
+      "B": "Mamalia",
+      "C": "Amfibi",
+      "D": "Aves"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 822,
+    "category": "Sejarah",
+    "question": "Siapakah tokoh wanita pejuang Indonesia yang menjahit Bendera Pusaka Merah Putih untuk Proklamasi 1945?",
+    "options": {
+      "A": "R.A. Kartini",
+      "B": "Cut Nyak Dhien",
+      "C": "Fatmawati",
+      "D": "Dewi Sartika"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 823,
+    "category": "Seni & Budaya",
+    "question": "Tari Kecak yang pertunjukannya diiringi suara paduan musik vokal pria merupakan tarian khas daerah...",
+    "options": {
+      "A": "Bali",
+      "B": "Lombok",
+      "C": "Yogyakarta",
+      "D": "Surakarta"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 824,
+    "category": "Pengetahuan Umum",
+    "question": "Menara Pisa yang terkenal di dunia karena posisi bangunannya yang miring terletak di negara...",
+    "options": {
+      "A": "Prancis",
+      "B": "Spanyol",
+      "C": "Italia",
+      "D": "Yunani"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 825,
+    "category": "Sains",
+    "question": "Berapakah nilai suhu titik didih air murni apabila diukur pada kondisi tekanan atmosfer normal?",
+    "options": {
+      "A": "0°C",
+      "B": "50°C",
+      "C": "80°C",
+      "D": "100°C"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 826,
+    "category": "Olahraga",
+    "question": "Berapakah jumlah total pemain dari satu tim bola basket yang bertanding secara bersamaan di dalam lapangan?",
+    "options": {
+      "A": "4 Orang",
+      "B": "5 Orang",
+      "C": "6 Orang",
+      "D": "11 Orang"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 827,
+    "category": "Geografi",
+    "question": "Apakah nama gunung tertinggi di dunia yang puncaknya menjadi batas wilayah antara Nepal dan Daerah Otonomi Tibet?",
+    "options": {
+      "A": "Gunung Kilimanjaro",
+      "B": "Gunung Fuji",
+      "C": "Gunung Everest",
+      "D": "Gunung Elbrus"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 828,
+    "category": "Sejarah",
+    "question": "Apakah nama kerajaan bercorak Hindu tertua di Indonesia yang dibuktikan dengan penemuan prasasti Yupa?",
+    "options": {
+      "A": "Kerajaan Tarumanegara",
+      "B": "Kerajaan Kutai",
+      "C": "Kerajaan Majapahit",
+      "D": "Kerajaan Singasari"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 829,
+    "category": "Pengetahuan Umum",
+    "question": "Lagu daerah tradisional berjudul 'Apuse' berasal dari wilayah daerah mana di Indonesia?",
+    "options": {
+      "A": "Maluku",
+      "B": "Nusa Tenggara Timur",
+      "C": "Papua",
+      "D": "Sulawesi Utara"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 830,
+    "category": "Sains",
+    "question": "Berapa lama waktu durasi yang dibutuhkan oleh Bumi untuk melakukan satu kali proses revolusi mengelilingi Matahari?",
+    "options": {
+      "A": "24 Jam",
+      "B": "30 Hari",
+      "C": "356 Hari",
+      "D": "365 Seperempat Hari"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 831,
+    "category": "Pengetahuan Umum",
+    "question": "Siapakah penemu benua Amerika yang melakukan pelayaran bersejarah pada tahun 1492?",
+    "options": {
+      "A": "Vasco da Gama",
+      "B": "Christopher Columbus",
+      "C": "Ferdinand Magellan",
+      "D": "Marco Polo"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 832,
+    "category": "Sains",
+    "question": "Gas apakah yang sangat dibutuhkan oleh tubuh manusia saat melakukan proses respirasi (pernapasan)?",
+    "options": {
+      "A": "Nitrogen",
+      "B": "Oksigen",
+      "C": "Karbondioksida",
+      "D": "Argon"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 833,
+    "category": "Seni & Budaya",
+    "question": "Seni melipat kertas tradisional yang sangat populer di seluruh dunia berasal dari negara Jepang disebut...",
+    "options": {
+      "A": "Origami",
+      "B": "Ikebana",
+      "C": "Kimono",
+      "D": "Bonsai"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 834,
+    "category": "Pengetahuan Umum",
+    "question": "Apa nama monumen terkenal di kota Paris, Prancis, yang awalnya dibangun sebagai gerbang masuk pameran dunia?",
+    "options": {
+      "A": "Menara Eiffel",
+      "B": "Museum Louvre",
+      "C": "Arc de Triomphe",
+      "D": "Notre-Dame"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 835,
+    "category": "Olahraga",
+    "question": "Berapa jumlah total kotak berwarna hitam dan putih yang terdapat pada satu papan permainan catur standar?",
+    "options": {
+      "A": "32 Kotak",
+      "B": "48 Kotak",
+      "C": "64 Kotak",
+      "D": "100 Kotak"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 836,
+    "category": "Sains",
+    "question": "Vitamin apakah yang larut dalam lemak dan diproduksi secara alami oleh tubuh saat kulit terpapar sinar matahari pagi?",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin B",
+      "C": "Vitamin C",
+      "D": "Vitamin D"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 837,
+    "category": "Sejarah",
+    "question": "Siapakah perdana menteri Kerajaan Majapahit yang terkenal dengan ikrar Sumpah Palapa untuk menyatukan Nusantara?",
+    "options": {
+      "A": "Gajah Mada",
+      "B": "Hayam Wuruk",
+      "C": "Raden Wijaya",
+      "D": "Kertanegara"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 838,
+    "category": "Pengetahuan Umum",
+    "question": "Apa nama samudra terkecil dan terdangkal di dunia yang terletak di belahan bumi bagian utara?",
+    "options": {
+      "A": "Samudra Pasifik",
+      "B": "Samudra Arktik",
+      "C": "Samudra Hindia",
+      "D": "Samudra Atlantik"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 839,
+    "category": "Sains",
+    "question": "Bahan alami dengan tekstur keras yang menyusun sebagian besar sistem rangka dalam tubuh manusia dewasa adalah...",
+    "options": {
+      "A": "Otot",
+      "B": "Tulang",
+      "C": "Sendi",
+      "D": "Kulit"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 840,
+    "category": "Sastra",
+    "question": "Apakah judul kitab kuno karangan Mpu Tantular yang menjadi asal-usul ditemukannya semboyan lambang negara 'Bhinneka Tunggal Ika'?",
+    "options": {
+      "A": "Kitab Negarakertagama",
+      "B": "Kitab Sutasoma",
+      "C": "Kitab Pararaton",
+      "D": "Kitab Arjunawiwaha"
+    },
+    "answer": "B"
   }
+]
 ]
