@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "category": "Geografi",
+    "question": "Apa nama ibu kota negara Australia?",
+    "options": {
+      "A": "Sydney",
+      "B": "Melbourne",
+      "C": "Canberra",
+      "D": "Perth"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "category": "Sains",
+    "question": "Planet manakah yang dikenal dengan julukan 'Planet Merah'?",
+    "options": {
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturnus"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "category": "Sejarah",
+    "question": "Siapakah penemu bola lampu pijar yang praktis digunakan?",
+    "options": {
+      "A": "Nikola Tesla",
+      "B": "Thomas Alva Edison",
+      "C": "Alexander Graham Bell",
+      "D": "Albert Einstein"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "category": "Sains",
+    "question": "Apa simbol kimia untuk unsur Emas?",
+    "options": {
+      "A": "Ag",
+      "B": "Fe",
+      "C": "Au",
+      "D": "Cu"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "category": "Olahraga",
+    "question": "Berapa jumlah pemain dalam satu tim bola basket yang berada di lapangan?",
+    "options": {
+      "A": "5 Orang",
+      "B": "6 Orang",
+      "C": "7 Orang",
+      "D": "11 Orang"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "category": "Geografi",
+    "question": "Benua manakah yang memiliki luas wilayah terkecil di dunia?",
+    "options": {
+      "A": "Eropa",
+      "B": "Antartika",
+      "C": "Australia",
+      "D": "Amerika Selatan"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "category": "Seni Budaya",
+    "question": "Siapakah pelukis karya fenomenal 'Mona Lisa'?",
+    "options": {
+      "A": "Vincent van Gogh",
+      "B": "Pablo Picasso",
+      "C": "Leonardo da Vinci",
+      "D": "Michelangelo"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "category": "Teknologi",
+    "question": "Apa kepanjangan dari 'WWW' pada alamat sebuah website?",
+    "options": {
+      "A": "World Wide Web",
+      "B": "World Web Wide",
+      "C": "Web World Wide",
+      "D": "Wide World Web"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "category": "Sejarah",
+    "question": "Kerajaan Hindu tertua di Indonesia adalah...",
+    "options": {
+      "A": "Kerajaan Majapahit",
+      "B": "Kerajaan Kutai",
+      "C": "Kerajaan Tarumanegara",
+      "D": "Kerajaan Sriwijaya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "category": "Sains",
+    "question": "Proses tumbuhan mengubah sinar matahari menjadi makanan disebut?",
+    "options": {
+      "A": "Respirasi",
+      "B": "Kondensasi",
+      "C": "Fotosintesis",
+      "D": "Transpirasi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "category": "Geografi",
+    "question": "Gunung tertinggi di dunia adalah...",
+    "options": {
+      "A": "Gunung Kilimanjaro",
+      "B": "Gunung Fuji",
+      "C": "Gunung Everest",
+      "D": "Gunung K2"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "category": "Pengetahuan Umum",
+    "question": "Mata uang resmi negara Jepang adalah...",
+    "options": {
+      "A": "Won",
+      "B": "Yuan",
+      "C": "Yen",
+      "D": "Baht"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "category": "Sejarah",
+    "question": "Siapakah pencipta lagu kebangsaan Indonesia Raya?",
+    "options": {
+      "A": "Ismail Marzuki",
+      "B": "W.R. Supratman",
+      "C": "Ibu Sud",
+      "D": "H. Mutahar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "category": "Sains",
+    "question": "Hewan darat pelari tercepat di dunia adalah...",
+    "options": {
+      "A": "Singa",
+      "B": "Cheetah",
+      "C": "Kuda",
+      "D": "Macan Tutul"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "category": "Olahraga",
+    "question": "Induk organisasi sepak bola dunia adalah...",
+    "options": {
+      "A": "FIBA",
+      "B": "BWF",
+      "C": "FIFA",
+      "D": "ITF"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "category": "Geografi",
+    "question": "Gurun terluas di dunia (selain benua Antartika) adalah...",
+    "options": {
+      "A": "Gurun Gobi",
+      "B": "Gurun Sahara",
+      "C": "Gurun Kalahari",
+      "D": "Gurun Atacama"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "category": "Sains",
+    "question": "Gas apakah yang paling banyak terkandung di atmosfer Bumi?",
+    "options": {
+      "A": "Oksigen",
+      "B": "Karbon Dioksida",
+      "C": "Nitrogen",
+      "D": "Hidrogen"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "category": "Teknologi",
+    "question": "Perusahaan teknologi manakah yang mengembangkan sistem operasi Android?",
+    "options": {
+      "A": "Apple",
+      "B": "Microsoft",
+      "C": "Google",
+      "D": "Samsung"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "category": "Sejarah",
+    "question": "Perang Dunia II secara resmi berakhir pada tahun...",
+    "options": {
+      "A": "1942",
+      "B": "1945",
+      "C": "1948",
+      "D": "1950"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "category": "Seni Budaya",
+    "question": "Alat musik angklung berasal dari provinsi...",
+    "options": {
+      "A": "Jawa Tengah",
+      "B": "Jawa Timur",
+      "C": "Jawa Barat",
+      "D": "Bali"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "category": "Geografi",
+    "question": "Sungai terpanjang di dunia adalah...",
+    "options": {
+      "A": "Sungai Amazon",
+      "B": "Sungai Nil",
+      "C": "Sungai Mississippi",
+      "D": "Sungai Yangtze"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "category": "Sains",
+    "question": "Planet terbesar di Tata Surya kita adalah...",
+    "options": {
+      "A": "Saturnus",
+      "B": "Uranus",
+      "C": "Neptunus",
+      "D": "Jupiter"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "category": "Pengetahuan Umum",
+    "question": "Tahun kabisat terjadi setiap berapa tahun sekali?",
+    "options": {
+      "A": "2 Tahun",
+      "B": "3 Tahun",
+      "C": "4 Tahun",
+      "D": "5 Tahun"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "category": "Olahraga",
+    "question": "Berapa jarak lari maraton secara resmi?",
+    "options": {
+      "A": "21,097 km",
+      "B": "42,195 km",
+      "C": "50,000 km",
+      "D": "10,000 km"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "category": "Sejarah",
+    "question": "Siapakah Presiden ke-3 Republik Indonesia?",
+    "options": {
+      "A": "Soeharto",
+      "B": "B.J. Habibie",
+      "C": "Abdurrahman Wahid",
+      "D": "Megawati Soekarnoputri"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "category": "Sains",
+    "question": "Zat hijau pada daun disebut...",
+    "options": {
+      "A": "Kromosom",
+      "B": "Kloroplas",
+      "C": "Klorofil",
+      "D": "Sitoplasma"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 27,
+    "category": "Teknologi",
+    "question": "Siapakah pendiri dari perusahaan Microsoft?",
+    "options": {
+      "A": "Steve Jobs",
+      "B": "Bill Gates",
+      "C": "Mark Zuckerberg",
+      "D": "Elon Musk"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 28,
+    "category": "Geografi",
+    "question": "Negara manakah yang memiliki jumlah penduduk terbanyak di dunia (per 2023)?",
+    "options": {
+      "A": "Tiongkok",
+      "B": "Amerika Serikat",
+      "C": "India",
+      "D": "Indonesia"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "category": "Sejarah",
+    "question": "Siapakah pahlawan nasional yang dijuluki 'Bapak Pendidikan Nasional'?",
+    "options": {
+      "A": "Sultan Hasanuddin",
+      "B": "Pangeran Diponegoro",
+      "C": "Ki Hajar Dewantara",
+      "D": "Jenderal Sudirman"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "category": "Sains",
+    "question": "Apa nama tulang terpanjang pada tubuh manusia?",
+    "options": {
+      "A": "Tulang Paha (Femur)",
+      "B": "Tulang Kering (Tibia)",
+      "C": "Tulang Lengan (Humerus)",
+      "D": "Tulang Betis (Fibula)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 31,
+    "category": "Seni Budaya",
+    "question": "Tari Kecak merupakan tarian tradisional yang berasal dari daerah...",
+    "options": {
+      "A": "Sumatera Barat",
+      "B": "Bali",
+      "C": "Sulawesi Selatan",
+      "D": "Nusa Tenggara Timur"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "category": "Olahraga",
+    "question": "Negara manakah yang paling banyak memenangkan Piala Dunia FIFA?",
+    "options": {
+      "A": "Jerman",
+      "B": "Italia",
+      "C": "Brasil",
+      "D": "Argentina"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "category": "Geografi",
+    "question": "Samudra terluas di dunia adalah...",
+    "options": {
+      "A": "Samudra Hindia",
+      "B": "Samudra Atlantik",
+      "C": "Samudra Arktik",
+      "D": "Samudra Pasifik"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 34,
+    "category": "Pengetahuan Umum",
+    "question": "Apa warna bendera negara Belanda? (Dari atas ke bawah)",
+    "options": {
+      "A": "Merah, Kuning, Hitam",
+      "B": "Merah, Putih, Biru",
+      "C": "Biru, Putih, Merah",
+      "D": "Hitam, Merah, Kuning"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 35,
+    "category": "Teknologi",
+    "question": "Penyimpanan data yang dilakukan melalui jaringan internet disebut...",
+    "options": {
+      "A": "Flash Drive",
+      "B": "Hard Disk",
+      "C": "Cloud Storage",
+      "D": "Floppy Disk"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "category": "Sains",
+    "question": "Hewan mamalia yang dapat terbang adalah...",
+    "options": {
+      "A": "Burung Unta",
+      "B": "Kelelawar",
+      "C": "Tupai Terbang",
+      "D": "Kalkun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "category": "Sejarah",
+    "question": "Candi Borobudur dibangun pada masa wangsa (dinasti)...",
+    "options": {
+      "A": "Sanjaya",
+      "B": "Syailendra",
+      "C": "Isyana",
+      "D": "Girindra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "category": "Geografi",
+    "question": "Negara yang dijuluki sebagai 'Negara Gajah Putih' adalah...",
+    "options": {
+      "A": "India",
+      "B": "Thailand",
+      "C": "Myanmar",
+      "D": "Vietnam"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 39,
+    "category": "Sains",
+    "question": "Alat yang digunakan untuk mengukur tekanan udara adalah...",
+    "options": {
+      "A": "Termometer",
+      "B": "Anemometer",
+      "C": "Barometer",
+      "D": "Higrometer"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 40,
+    "category": "Olahraga",
+    "question": "Dalam permainan bulu tangkis, poin maksimal standar (tanpa deuce) dalam satu set adalah...",
+    "options": {
+      "A": "15",
+      "B": "21",
+      "C": "25",
+      "D": "30"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "category": "Pengetahuan Umum",
+    "question": "Siapakah penulis novel 'Harry Potter'?",
+    "options": {
+      "A": "J.R.R. Tolkien",
+      "B": "George R.R. Martin",
+      "C": "J.K. Rowling",
+      "D": "C.S. Lewis"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 42,
+    "category": "Sejarah",
+    "question": "Teks Proklamasi Kemerdekaan Indonesia diketik oleh...",
+    "options": {
+      "A": "Sayuti Melik",
+      "B": "Soekarni",
+      "C": "Sutan Syahrir",
+      "D": "Laksamana Maeda"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "category": "Geografi",
+    "question": "Danau terluas di Indonesia adalah...",
+    "options": {
+      "A": "Danau Poso",
+      "B": "Danau Toba",
+      "C": "Danau Singkarak",
+      "D": "Danau Maninjau"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "category": "Sains",
+    "question": "Benda langit yang mengeluarkan cahayanya sendiri disebut...",
+    "options": {
+      "A": "Planet",
+      "B": "Satelit",
+      "C": "Komet",
+      "D": "Bintang"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 45,
+    "category": "Teknologi",
+    "question": "Apa fungsi dari RAM pada komputer?",
+    "options": {
+      "A": "Menyimpan data secara permanen",
+      "B": "Memproses grafis visual",
+      "C": "Penyimpanan memori sementara",
+      "D": "Memberikan daya listrik"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "category": "Seni Budaya",
+    "question": "Motif kain khas Indonesia yang diakui UNESCO sebagai warisan budaya dunia adalah...",
+    "options": {
+      "A": "Tenun",
+      "B": "Songket",
+      "C": "Ulos",
+      "D": "Batik"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "category": "Geografi",
+    "question": "Benua yang tidak memiliki wilayah gurun pasir sama sekali adalah...",
+    "options": {
+      "A": "Eropa",
+      "B": "Amerika Utara",
+      "C": "Australia",
+      "D": "Asia"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "category": "Pengetahuan Umum",
+    "question": "Zodiak untuk orang yang lahir pada tanggal 10 Agustus adalah...",
+    "options": {
+      "A": "Cancer",
+      "B": "Leo",
+      "C": "Virgo",
+      "D": "Libra"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 49,
+    "category": "Sains",
+    "question": "Apakah nama unsur kimia penyusun berlian?",
+    "options": {
+      "A": "Oksigen",
+      "B": "Silikon",
+      "C": "Karbon",
+      "D": "Nitrogen"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "category": "Sejarah",
+    "question": "Pemberontakan G30S/PKI terjadi pada tahun...",
+    "options": {
+      "A": "1948",
+      "B": "1960",
+      "C": "1965",
+      "D": "1966"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "category": "Olahraga",
+    "question": "Pukulan keras dan menukik dalam bola voli disebut...",
+    "options": {
+      "A": "Passing",
+      "B": "Blocking",
+      "C": "Service",
+      "D": "Smash"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 52,
+    "category": "Geografi",
+    "question": "Negara bagian terkecil di Amerika Serikat adalah...",
+    "options": {
+      "A": "Texas",
+      "B": "Hawaii",
+      "C": "Rhode Island",
+      "D": "Delaware"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 53,
+    "category": "Teknologi",
+    "question": "Siapakah nama CEO Tesla dan SpaceX?",
+    "options": {
+      "A": "Jeff Bezos",
+      "B": "Elon Musk",
+      "C": "Tim Cook",
+      "D": "Sundar Pichai"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 54,
+    "category": "Sains",
+    "question": "Proses perubahan wujud dari gas menjadi cair disebut...",
+    "options": {
+      "A": "Mengkristal",
+      "B": "Menguap",
+      "C": "Menyublim",
+      "D": "Mengembun"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "category": "Sejarah",
+    "question": "Siapakah nama Raja yang memimpin Kerajaan Majapahit pada masa kejayaannya?",
+    "options": {
+      "A": "Raden Wijaya",
+      "B": "Jayanegara",
+      "C": "Hayam Wuruk",
+      "D": "Ken Arok"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "category": "Seni Budaya",
+    "question": "Alat musik Sasando berasal dari daerah...",
+    "options": {
+      "A": "Maluku",
+      "B": "Papua",
+      "C": "Nusa Tenggara Timur",
+      "D": "Sulawesi Utara"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 57,
+    "category": "Geografi",
+    "question": "Selat yang menghubungkan Pulau Jawa dan Pulau Sumatera adalah...",
+    "options": {
+      "A": "Selat Bali",
+      "B": "Selat Sunda",
+      "C": "Selat Malaka",
+      "D": "Selat Makassar"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 58,
+    "category": "Sains",
+    "question": "Berapa banyak kromosom yang dimiliki oleh manusia normal?",
+    "options": {
+      "A": "23 Pasang",
+      "B": "24 Pasang",
+      "C": "46 Pasang",
+      "D": "48 Pasang"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 59,
+    "category": "Pengetahuan Umum",
+    "question": "Bulan berapakah yang memiliki jumlah hari paling sedikit?",
+    "options": {
+      "A": "Januari",
+      "B": "Februari",
+      "C": "September",
+      "D": "November"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "category": "Olahraga",
+    "question": "Istilah 'Checkmate' (Skakmat) digunakan dalam permainan...",
+    "options": {
+      "A": "Biliar",
+      "B": "Poker",
+      "C": "Catur",
+      "D": "Tenis"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Pulau Jawa adalah...",
+    "options": {
+      "A": "Gunung Merapi",
+      "B": "Gunung Semeru",
+      "C": "Gunung Bromo",
+      "D": "Gunung Slamet"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "category": "Teknologi",
+    "question": "HTTP merupakan singkatan dari...",
+    "options": {
+      "A": "HyperText Transfer Protocol",
+      "B": "HyperLink Transfer Protocol",
+      "C": "HyperText Transmission Process",
+      "D": "HyperText Technology Protocol"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "category": "Sejarah",
+    "question": "Tragedi tenggelamnya kapal Titanic terjadi pada tahun...",
+    "options": {
+      "A": "1905",
+      "B": "1912",
+      "C": "1920",
+      "D": "1931"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "category": "Sains",
+    "question": "Vitamin apakah yang diproduksi tubuh manusia saat terpapar sinar matahari pagi?",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin B",
+      "C": "Vitamin C",
+      "D": "Vitamin D"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 65,
+    "category": "Pengetahuan Umum",
+    "question": "Bahan utama pembuatan kaca adalah...",
+    "options": {
+      "A": "Tanah Liat",
+      "B": "Kapur",
+      "C": "Pasir Silika",
+      "D": "Kerikil"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "category": "Geografi",
+    "question": "Negara terkecil di dunia secara wilayah dan populasi adalah...",
+    "options": {
+      "A": "Monako",
+      "B": "Vatikan",
+      "C": "San Marino",
+      "D": "Maladewa"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "category": "Seni Budaya",
+    "question": "Wayang golek adalah kesenian pertunjukan yang terbuat dari...",
+    "options": {
+      "A": "Kulit sapi",
+      "B": "Kertas",
+      "C": "Kain",
+      "D": "Kayu"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 68,
+    "category": "Olahraga",
+    "question": "Ajang olahraga Olimpiade diadakan setiap berapa tahun sekali?",
+    "options": {
+      "A": "2 Tahun",
+      "B": "4 Tahun",
+      "C": "5 Tahun",
+      "D": "8 Tahun"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "category": "Sains",
+    "question": "Pusat pengendali seluruh aktivitas sel pada makhluk hidup adalah...",
+    "options": {
+      "A": "Vakuola",
+      "B": "Mitokondria",
+      "C": "Nukleus",
+      "D": "Membran Sel"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 70,
+    "category": "Sejarah",
+    "question": "Organisasi pergerakan nasional pertama di Indonesia adalah...",
+    "options": {
+      "A": "Budi Utomo",
+      "B": "Sarekat Islam",
+      "C": "Indische Partij",
+      "D": "Partai Nasional Indonesia"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "category": "Teknologi",
+    "question": "Sistem bilangan yang hanya menggunakan angka 0 dan 1 disebut...",
+    "options": {
+      "A": "Desimal",
+      "B": "Oktal",
+      "C": "Heksadesimal",
+      "D": "Biner"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "category": "Geografi",
+    "question": "Mata uang negara Inggris adalah...",
+    "options": {
+      "A": "Euro",
+      "B": "Poundsterling",
+      "C": "Dolar",
+      "D": "Franc"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "category": "Pengetahuan Umum",
+    "question": "Fobia atau rasa takut yang berlebihan terhadap ruang sempit tertutup disebut...",
+    "options": {
+      "A": "Acrophobia",
+      "B": "Claustrophobia",
+      "C": "Arachnophobia",
+      "D": "Agoraphobia"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "category": "Sains",
+    "question": "Ilmuwan penemu teori gravitasi setelah melihat apel jatuh adalah...",
+    "options": {
+      "A": "Galileo Galilei",
+      "B": "Albert Einstein",
+      "C": "Isaac Newton",
+      "D": "Johannes Kepler"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 75,
+    "category": "Sejarah",
+    "question": "Gelar 'Bapak Koperasi Indonesia' diberikan kepada...",
+    "options": {
+      "A": "Soekarno",
+      "B": "Mohammad Hatta",
+      "C": "Sutan Syahrir",
+      "D": "Agus Salim"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "category": "Geografi",
+    "question": "Batas alami antara benua Eropa dan benua Asia adalah...",
+    "options": {
+      "A": "Pegunungan Himalaya",
+      "B": "Pegunungan Alpen",
+      "C": "Pegunungan Ural",
+      "D": "Pegunungan Andes"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 77,
+    "category": "Olahraga",
+    "question": "Gaya renang yang paling lambat namun populer untuk rekreasi adalah...",
+    "options": {
+      "A": "Gaya Bebas",
+      "B": "Gaya Kupu-kupu",
+      "C": "Gaya Punggung",
+      "D": "Gaya Dada"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 78,
+    "category": "Seni Budaya",
+    "question": "Senjata tradisional khas suku Sunda (Jawa Barat) adalah...",
+    "options": {
+      "A": "Keris",
+      "B": "Kujang",
+      "C": "Badik",
+      "D": "Mandau"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "category": "Sains",
+    "question": "Hewan yang dapat hidup di dua alam (darat dan air) disebut...",
+    "options": {
+      "A": "Reptil",
+      "B": "Amfibi",
+      "C": "Mamalia",
+      "D": "Aves"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "category": "Teknologi",
+    "question": "Sensor pada smartphone yang mendeteksi rotasi atau kemiringan layar adalah...",
+    "options": {
+      "A": "Proximity Sensor",
+      "B": "Barometer",
+      "C": "Gyroscope",
+      "D": "Lidar"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 81,
+    "category": "Pengetahuan Umum",
+    "question": "Bahasa yang paling banyak digunakan di dunia berdasarkan jumlah penutur aslinya adalah...",
+    "options": {
+      "A": "Inggris",
+      "B": "Spanyol",
+      "C": "Mandarin",
+      "D": "Hindi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 82,
+    "category": "Geografi",
+    "question": "Julukan 'Zamrud Khatulistiwa' diberikan kepada negara...",
+    "options": {
+      "A": "Brasil",
+      "B": "Kongo",
+      "C": "Indonesia",
+      "D": "Ekuador"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 83,
+    "category": "Sejarah",
+    "question": "Semboyan 'Bhinneka Tunggal Ika' diambil dari kitab...",
+    "options": {
+      "A": "Sutasoma",
+      "B": "Negarakertagama",
+      "C": "Pararaton",
+      "D": "Arjuna Wiwaha"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 84,
+    "category": "Sains",
+    "question": "Organ tubuh yang berfungsi menyaring racun dari dalam darah adalah...",
+    "options": {
+      "A": "Jantung",
+      "B": "Ginjal",
+      "C": "Paru-paru",
+      "D": "Lambung"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "category": "Olahraga",
+    "question": "Tinggi net bola voli untuk pertandingan putra standar internasional adalah...",
+    "options": {
+      "A": "2,24 meter",
+      "B": "2,30 meter",
+      "C": "2,43 meter",
+      "D": "2,50 meter"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 86,
+    "category": "Geografi",
+    "question": "Tembok Besar (Great Wall) merupakan bangunan bersejarah yang terletak di negara...",
+    "options": {
+      "A": "Jepang",
+      "B": "Korea Selatan",
+      "C": "Mongolia",
+      "D": "Tiongkok"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 87,
+    "category": "Teknologi",
+    "question": "Perusahaan pembuat prosesor komputer lini 'Core i3, i5, i7' adalah...",
+    "options": {
+      "A": "AMD",
+      "B": "Nvidia",
+      "C": "Intel",
+      "D": "Qualcomm"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 88,
+    "category": "Pengetahuan Umum",
+    "question": "Ikon burung biru dulunya merupakan logo dari platform media sosial...",
+    "options": {
+      "A": "Facebook",
+      "B": "Tumblr",
+      "C": "Twitter",
+      "D": "Skype"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "category": "Sains",
+    "question": "Kecepatan cahaya di ruang hampa adalah sekitar...",
+    "options": {
+      "A": "300.000 km/detik",
+      "B": "150.000 km/detik",
+      "C": "340 m/detik",
+      "D": "1.000 km/jam"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 90,
+    "category": "Sejarah",
+    "question": "Siapakah panglima besar yang memimpin perang gerilya melawan Belanda di Indonesia?",
+    "options": {
+      "A": "Pattimura",
+      "B": "Tuanku Imam Bonjol",
+      "C": "Jenderal Sudirman",
+      "D": "Teuku Umar"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 91,
+    "category": "Seni Budaya",
+    "question": "Seni melipat kertas yang berasal dari Jepang disebut...",
+    "options": {
+      "A": "Ikebana",
+      "B": "Bonsai",
+      "C": "Origami",
+      "D": "Manga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 92,
+    "category": "Geografi",
+    "question": "Sungai terpanjang di Indonesia adalah...",
+    "options": {
+      "A": "Sungai Musi",
+      "B": "Sungai Kapuas",
+      "C": "Sungai Mahakam",
+      "D": "Sungai Bengawan Solo"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "category": "Olahraga",
+    "question": "Pencak silat adalah seni bela diri tradisional yang berasal dari...",
+    "options": {
+      "A": "Thailand",
+      "B": "Jepang",
+      "C": "Korea Selatan",
+      "D": "Indonesia"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 94,
+    "category": "Sains",
+    "question": "Penyakit Demam Berdarah Dengue (DBD) ditularkan melalui gigitan nyamuk...",
+    "options": {
+      "A": "Anopheles",
+      "B": "Aedes Aegypti",
+      "C": "Culex",
+      "D": "Mansonia"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "category": "Pengetahuan Umum",
+    "question": "Penghargaan Nobel dinamakan berdasarkan ilmuwan bernama Alfred Nobel, penemu dari...",
+    "options": {
+      "A": "Penisilin",
+      "B": "Radio",
+      "C": "Dinamit",
+      "D": "Vaksin Polio"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 96,
+    "category": "Sejarah",
+    "question": "Perjanjian yang mengharuskan Belanda mengakui kedaulatan Republik Indonesia Serikat (RIS) adalah...",
+    "options": {
+      "A": "Perjanjian Linggarjati",
+      "B": "Perjanjian Renville",
+      "C": "Perjanjian Roem-Royen",
+      "D": "Konferensi Meja Bundar (KMB)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 97,
+    "category": "Teknologi",
+    "question": "PDF adalah singkatan dari...",
+    "options": {
+      "A": "Printable Document Format",
+      "B": "Portable Document Format",
+      "C": "Personal Document Folder",
+      "D": "Public Data File"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 98,
+    "category": "Geografi",
+    "question": "Garis lintang 0 derajat yang membagi bumi menjadi bagian utara dan selatan disebut...",
+    "options": {
+      "A": "Garis Bujur",
+      "B": "Garis Khatulistiwa",
+      "C": "Garis Balik Utara",
+      "D": "Garis Meridian"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 99,
+    "category": "Sains",
+    "question": "Apa nama lapisan atmosfer bumi yang melindungi kita dari sinar ultraviolet matahari?",
+    "options": {
+      "A": "Troposfer",
+      "B": "Mesosfer",
+      "C": "Ionosfer",
+      "D": "Lapisan Ozon (Stratosfer)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 100,
+    "category": "Seni Budaya",
+    "question": "Rumah adat suku Toraja di Sulawesi Selatan dinamakan...",
+    "options": {
+      "A": "Rumah Gadang",
+      "B": "Tongkonan",
+      "C": "Joglo",
+      "D": "Honai"
+    },
+    "answer": "B"
+  }
+]
