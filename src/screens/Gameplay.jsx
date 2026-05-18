@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 import TimerBar from '../components/game/TimerBar';
-import quizData from '../assets/data/soal.json';
+import { getFreshQuestions } from '../utils/questionEngine';
 
-import avatar1 from '../assets/avatar/Bluter.svg'; // Sesuaikan nama file dan ekstensinya (.png / .svg / .webp)
+import avatar1 from '../assets/avatar/Bluter.svg';
 import avatar2 from '../assets/avatar/Gribir.svg';
 import avatar3 from '../assets/avatar/Lady.svg';
 import avatar4 from '../assets/avatar/Moko.svg';
@@ -32,19 +32,40 @@ export default function Gameplay({ playerData, onFinish }) {
   const [maxStreak, setMaxStreak] = useState(0);
   const [totalResponseTime, setTotalResponseTime] = useState(0);
 
-  useEffect(() => {
-    const shuffled = [...quizData].sort(() => 0.5 - Math.random());
-    setQuestions(shuffled.slice(0, 15)); 
-  }, []);
+  // MUNDUR BARU: State khusus hitung mundur awal pertandingan
+  const [startCountdown, setStartCountdown] = useState(3);
 
   useEffect(() => {
-    if (timeLeft > 0 && !isAnswered && questions.length > 0) {
+  // Mesin akan otomatis mencarikan soal yang belum pernah dimainkan
+  const freshQuestions = getFreshQuestions(15);
+  setQuestions(freshQuestions); 
+}, []);
+
+  // ==========================================
+  // LOGIKA BARU: Efek Penghitung Mundur Awal 3, 2, 1
+  // ==========================================
+  useEffect(() => {
+    if (questions.length === 0) return; 
+    
+    if (startCountdown > 0) {
+      const timer = setTimeout(() => {
+        setStartCountdown(prev => prev - 1);
+      }, 1000);
+      return () => clearTimeout(timer);
+    }
+  }, [startCountdown, questions.length]);
+
+  // ==========================================
+  // PERBAIKAN TIMER: Ditambahkan syarat startCountdown === 0
+  // ==========================================
+  useEffect(() => {
+    if (timeLeft > 0 && !isAnswered && questions.length > 0 && startCountdown === 0) {
       const timer = setTimeout(() => setTimeLeft(timeLeft - 1), 1000);
       return () => clearTimeout(timer);
-    } else if (timeLeft === 0 && !isAnswered) {
+    } else if (timeLeft === 0 && !isAnswered && startCountdown === 0) {
       handleTimeout();
     }
-  }, [timeLeft, isAnswered, questions]);
+  }, [timeLeft, isAnswered, questions, startCountdown]);
 
   useEffect(() => {
     if (isAnswered) {
@@ -75,7 +96,8 @@ export default function Gameplay({ playerData, onFinish }) {
   const avatarSrc = AVATAR_LIST[playerData?.avatarIndex ?? 1];
 
   const handleAnswerClick = (optionId) => {
-    if (isAnswered) return;
+    // Kunci tombol saat countdown berjalan
+    if (isAnswered || startCountdown > 0) return;
 
     setSelectedOption(optionId);
     setIsAnswered(true);
@@ -86,7 +108,8 @@ export default function Gameplay({ playerData, onFinish }) {
 
     const isCorrect = optionId === currentQuiz.answer;
     if (isCorrect) {
-      setScore((prev) => prev + 20 + timeLeft); 
+      // Mengubah rumus skor mengikuti mode party: Dasar 20 + Bonus (2 x Sisa Detik)
+      setScore((prev) => prev + 20 + (timeLeft * 2)); 
       setCorrectCount((prev) => prev + 1);
       const newStreak = currentStreak + 1;
       setCurrentStreak(newStreak);
@@ -108,6 +131,21 @@ export default function Gameplay({ playerData, onFinish }) {
     return (
       <div className="min-h-screen bg-gray-900 flex items-center justify-center text-white">
         <div className="w-8 h-8 border-4 border-gray-400 border-t-orange-500 rounded-full animate-spin"></div>
+      </div>
+    );
+  }
+
+  // INTERSEPTOR: Tampilkan Layar Hitung Mundur Raksasa sebelum mulai
+  if (startCountdown > 0) {
+    return (
+      <div className="min-h-screen bg-gray-900 flex items-center justify-center p-4 font-sans">
+        <div className="bg-[#FAFAFA] w-full max-w-[400px] rounded-[2.5rem] shadow-2xl p-5 flex flex-col items-center justify-center h-[720px] max-h-[95vh] relative overflow-hidden text-center">
+          <span className="text-[11px] font-black text-gray-400 tracking-[0.2em] uppercase mb-4">Prepare Yourself</span>
+          <div className="w-24 h-24 rounded-full bg-orange-50 border-4 border-[#EE9432] flex items-center justify-center shadow-md animate-bounce-in">
+            <span className="text-5xl font-black text-[#8C5221]">{startCountdown}</span>
+          </div>
+          <p className="text-xs font-bold text-gray-400 mt-6 animate-pulse">Kuis Solo akan segera dimulai!</p>
+        </div>
       </div>
     );
   }
