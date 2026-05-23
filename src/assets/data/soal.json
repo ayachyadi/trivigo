@@ -7334,7 +7334,7 @@
   {
     "id": 613,
     "category": "Astronomi dan Geofisika",
-    "question": "Metode geofisika yang mengukur variasi sifat kelistrikan batuan berdasarkan kemampuannya untuk menghambat aliran arus listrik searah di bawah permukaan disebut metode...",
+    "question": "Metode geofisika yang mengukur variasi sifat kelistrikan batuan berdasarkan kemampuannya untuk menghambat aliran arus listrik disebut metode...",
     "options": {
       "A": "Geolistrik Resistivitas",
       "B": "Self Potential (SP)",
@@ -7574,7 +7574,7 @@
   {
     "id": 633,
     "category": "Nostalgia 90-an",
-    "question": "Permainan menebak kata rahasia di atas selembar kertas menggunakan metode skoring berdasar jumlah kecocokan huruf nama sepasang kekasih di era 90-an dinamakan game...",
+    "question": "Permainan menebak kata di kertas menggunakan metode skoring berdasar jumlah kecocokan huruf nama sepasang kekasih di era 90-an dinamakan...",
     "options": {
       "A": "SOS",
       "B": "FLAMES",
@@ -7586,7 +7586,7 @@
   {
     "id": 634,
     "category": "Nostalgia 90-an",
-    "question": "Buku bacaan cerita misteri/horor berseri karya R.L. Stine yang diterjemahkan ke bahasa Indonesia dan sangat diburu oleh anak-anak sekolah 90-an adalah...",
+    "question": "Buku cerita misteri berseri karya R.L. Stine yang diterjemahkan ke bahasa Indonesia adalah...",
     "options": {
       "A": "Lima Sekawan",
       "B": "Goosebumps",
@@ -7598,11 +7598,11 @@
   {
     "id": 635,
     "category": "Nostalgia 90-an",
-    "question": "Permainan konsol genggam (handheld) murah meriah layar monokrom (hitam putih) yang sering disewakan abang-abang di depan SD tahun 90-an dan identik dengan game Tetris disebut...",
+    "question": "Permainan konsol genggam murah meriah layar monokrom tahun 90-an dan identik dengan game Tetris disebut...",
     "options": {
       "A": "Game Boy Color",
       "B": "Sega Game Gear",
-      "C": "Game Gimbot (Brick Game)",
+      "C": "Game Gimbot",
       "D": "Nintendo DS"
     },
     "answer": "C"
@@ -7610,7 +7610,7 @@
   {
     "id": 636,
     "category": "Nostalgia 90-an",
-    "question": "Film anak-anak fenomenal akhir tahun 90-an (1999) garapan Mira Lesmana dan Riri Riza yang menceritakan petualangan Sherina dan Sadam di Lembang adalah...",
+    "question": "Film anak-anak tahun 90-an garapan Mira Lesmana dan Riri Riza yang menceritakan petualangan Sadam di Lembang adalah...",
     "options": {
       "A": "Kuldesak",
       "B": "Petualangan Sherina",
@@ -7634,7 +7634,7 @@
   {
     "id": 638,
     "category": "Pemerintahan Indonesia",
-    "question": "Apakah nama resmi dari kabinet pemerintahan yang dibentuk di bawah kepemimpinan Presiden Prabowo Subianto dan Wakil Presiden Gibran Rakabuming Raka?",
+    "question": "Apakah nama resmi dari kabinet pemerintahan yang dibentuk Presiden Prabowo Subianto?",
     "options": {
       "A": "Kabinet Indonesia Maju",
       "B": "Kabinet Kerja",
@@ -7646,7 +7646,7 @@
   {
     "id": 639,
     "category": "Pemerintahan Indonesia",
-    "question": "Siapakah tokoh yang dipercaya menjabat sebagai Menteri Koordinator Bidang Politik dan Keamanan (Menko Polkam) dalam Kabinet Merah Putih?",
+    "question": "Siapakah tokoh yang dipercaya menjabat sebagai Menko Polkam dalam Kabinet Merah Putih?",
     "options": {
       "A": "Budi Gunawan",
       "B": "Yusril Ihza Mahendra",
@@ -7658,7 +7658,7 @@
   {
     "id": 640,
     "category": "Pemerintahan Indonesia",
-    "question": "Siapakah menteri perempuan yang kembali dipercaya untuk menjabat sebagai Menteri Keuangan (Menkeu) di era pemerintahan Presiden Prabowo Subianto?",
+    "question": "Siapakah menteri perempuan yang kembali dipercaya untuk menjabat sebagai Menteri Keuangan di era pemerintahan Presiden Prabowo Subianto?",
     "options": {
       "A": "Retno Marsudi",
       "B": "Sri Mulyani Indrawati",
@@ -7670,7 +7670,7 @@
   {
     "id": 641,
     "category": "Pemerintahan Indonesia",
-    "question": "Tokoh diplomat karier yang ditunjuk sebagai Menteri Luar Negeri (Menlu) menggantikan Retno Marsudi adalah...",
+    "question": "Tokoh diplomat karier yang ditunjuk sebagai Menteri Luar Negeri menggantikan Retno Marsudi adalah...",
     "options": {
       "A": "Sugiono",
       "B": "Anis Matta",
@@ -7682,7 +7682,7 @@
   {
     "id": 642,
     "category": "Pemerintahan Indonesia",
-    "question": "Kementerian baru yang dibentuk melalui pemecahan Kementerian Hukum dan HAM, khusus yang menangani bidang penegakan hukum dan peradilan, dipimpin oleh Menteri Supratman Andi Agtas. Nama kementerian tersebut adalah...",
+    "question": "Kementerian baru yang dibentuk khusus yang menangani bidang penegakan hukum dan peradilan, Nama kementerian tersebut adalah...",
     "options": {
       "A": "Kementerian Hukum",
       "B": "Kementerian Hak Asasi Manusia",
@@ -7754,7 +7754,7 @@
   {
     "id": 648,
     "category": "Pemerintahan Indonesia",
-    "question": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek) resmi dipecah. Tokoh yang ditunjuk sebagai Menteri Pendidikan Dasar dan Menengah (Mendikdasmen) adalah...",
+    "question": "Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi resmi dipecah. Tokoh yang ditunjuk sebagai Menteri Pendidikan Dasar dan Menengah adalah...",
     "options": {
       "A": "Satryo Soemantri Brodjonegoro",
       "B": "Abdul Mu'ti",
@@ -7766,7 +7766,7 @@
   {
     "id": 649,
     "category": "Pemerintahan Indonesia",
-    "question": "Sektor pariwisata dan ekonomi kreatif kini dikelola oleh kementerian yang terpisah. Siapakah yang menjabat sebagai Menteri Pariwisata dalam Kabinet Merah Putih?",
+    "question": "Pariwisata dan Ekraf kini dikelola oleh kementerian yang terpisah. Siapakah yang menjabat sebagai Menteri Pariwisata dalam Kabinet Merah Putih?",
     "options": {
       "A": "Widianti Putri",
       "B": "Teuku Riefky Harsya",
@@ -7850,10 +7850,10 @@
   {
     "id": 656,
     "category": "Pemerintahan Indonesia",
-    "question": "Di manakah lokasi tempat dilaksanakannya pembekalan atau 'retret' intensif perdana bagi para menteri dan wakil menteri Kabinet Merah Putih setelah resmi dilantik?",
+    "question": "Di manakah lokasi tempat dilaksanakannya pembekalan intensif perdana bagi para menteri Kabinet Merah Putih setelah resmi dilantik?",
     "options": {
       "A": "Istana Merdeka, Jakarta",
-      "B": "Akademi Militer (Akmil), Magelang",
+      "B": "Akademi Militer, Magelang",
       "C": "Ibu Kota Nusantara (IKN), Kaltim",
       "D": "Istana Bogor, Jawa Barat"
     },
@@ -7898,7 +7898,7 @@
   {
     "id": 660,
     "category": "Kesenian",
-    "question": "Aliran seni lukis yang memproyeksikan gambar dari alam bawah sadar atau mimpi ke dalam bentuk visual yang tidak logis, dipelopori oleh Salvador Dali, disebut...",
+    "question": "Aliran seni lukis yang memproyeksikan gambar dari alam bawah sadar ke dalam bentuk visual, dipelopori oleh Salvador Dali, disebut...",
     "options": {
       "A": "Realisme",
       "B": "Surealisme",
@@ -7934,7 +7934,7 @@
   {
     "id": 663,
     "category": "Kesenian",
-    "question": "Tari tradisional Bali yang dipentaskan oleh puluhan penari pria yang duduk melingkar sambil mengangkat kedua tangan dan meneriakkan seruan 'cak' adalah...",
+    "question": "Tari tradisional Bali yang dipentaskan oleh puluhan penari pria yang duduk melingkar sambil mengangkat tangan dan meneriakkan 'cak' adalah...",
     "options": {
       "A": "Tari Pendet",
       "B": "Tari Kecak",
@@ -7946,7 +7946,7 @@
   {
     "id": 664,
     "category": "Kesenian",
-    "question": "Jenis corak batik tradisional yang memiliki motif dasar berbentuk garis-garis miring berparalel dan dahulu hanya boleh digunakan oleh lingkungan keluarga kerajaan Jawa adalah...",
+    "question": "Jenis corak batik yang memiliki motif dasar berbentuk garis miring berparalel dan dahulu hanya digunakan oleh keluarga kerajaan Jawa adalah...",
     "options": {
       "A": "Batik Megamendung",
       "B": "Batik Parang",
@@ -8006,7 +8006,7 @@
   {
     "id": 669,
     "category": "Kesenian",
-    "question": "Aliran seni rupa yang menyederhanakan bentuk objek nyata ke dalam bentuk-bentuk geometris seperti kubus, bola, atau segitiga, dipelopori oleh Pablo Picasso, dinamakan...",
+    "question": "Aliran seni rupa yang menyederhanakan bentuk nyata ke dalam bentuk geometris seperti dipelopori oleh Pablo Picasso, dinamakan...",
     "options": {
       "A": "Abstrak",
       "B": "Kubisme",
@@ -8107,14 +8107,14 @@
       "A": "Indonesia",
       "B": "Malaysia",
       "C": "Ditentukan pihak keluarga",
-      "D": "Orang selamat tidak dimakamkan"
+      "D": "Nggak ada"
     },
     "answer": "D"
   },
   {
     "id": 678,
     "category": "Pengetahuan Umum",
-    "question": "Berapa banyak tanda amandemen atau hari kemerdekaan yang tertulis di dalam teks Proklamasi Kemerdekaan Indonesia yang asli?",
+    "question": "Berapa banyak tanda amandemen yang tertulis di dalam teks Proklamasi Kemerdekaan Indonesia yang asli?",
     "options": {
       "A": "17 Agustus 1945",
       "B": "17-8-'45",
@@ -8126,10 +8126,10 @@
   {
     "id": 679,
     "category": "Pengetahuan Umum",
-    "question": "Seorang sopir truk kontainer besar berjalan melawan arah di jalan satu arah yang dijaga polisi, tetapi polisi tersebut sama sekali tidak menilangnya. Mengapa hal itu bisa terjadi?",
+    "question": "Seorang sopir truk kontainer berjalan melawan arah di jalan satu arah yang dijaga polisi, tetapi nggak ditilang. Mengapa?",
     "options": {
       "A": "Sopir tersebut menyuap polisi",
-      "B": "Sopir tersebut sedang berjalan kaki",
+      "B": "Sopir tersebut berjalan kaki",
       "C": "Truknya memiliki pelat nomor kedinasan",
       "D": "Polisinya adalah saudaranya sendiri"
     },
@@ -8138,7 +8138,7 @@
   {
     "id": 680,
     "category": "Pengetahuan Umum",
-    "question": "Beberapa bulan dalam kalender memiliki 30 hari, dan ada yang memiliki 31 hari. Lalu, ada berapa bulan di dalam setahun yang memiliki minimal 28 hari?",
+    "question": "Beberapa bulan dalam kalender memiliki 30 hari, dan ada yang 31 hari. Lalu, ada berapa bulan di dalam setahun yang memiliki minimal 28 hari?",
     "options": {
       "A": "1 bulan (Februari)",
       "B": "4 bulan",
@@ -8150,9 +8150,9 @@
   {
     "id": 681,
     "category": "Pengetahuan Umum",
-    "question": "Sebelum Gunung Everest ditemukan dan dinobatkan sebagai gunung tertinggi di dunia, apakah gunung tertinggi di planet bumi ini?",
+    "question": "Sebelum Gunung Everest ditemukan, apakah gunung tertinggi di planet bumi?",
     "options": {
-      "A": "Gunung K2",
+      "A": "Gunung Andes",
       "B": "Gunung Kilimanjaro",
       "C": "Gunung Everest",
       "D": "Gunung Mauna Kea"
@@ -8162,7 +8162,7 @@
   {
     "id": 682,
     "category": "Pengetahuan Umum",
-    "question": "Jika Anda sedang ikut lomba lari maraton dan berhasil menyalip posisi pelari yang berada di urutan kedua, berada di posisi berapakah Anda sekarang?",
+    "question": "Jika Kamu ikut lomba lari dan berhasil menyalip posisi pelari di urutan kedua, berada di posisi berapakah Anda sekarang?",
     "options": {
       "A": "Posisi Pertama",
       "B": "Posisi Kedua",
@@ -8174,7 +8174,7 @@
   {
     "id": 683,
     "category": "Pengetahuan Umum",
-    "question": "Berapa banyak hewan dari masing-masing jenis (jantan dan betina) yang dibawa oleh Nabi Musa ke dalam bahtera besar miliknya saat badai air bah melanda?",
+    "question": "Berapa banyak hewan dari masing-masing jenis yang dibawa oleh Nabi Musa ke dalam bahtera besar miliknya saat badai air bah melanda?",
     "options": {
       "A": "Sepasang (Dua ekor)",
       "B": "Tujuh pasang",
@@ -8186,7 +8186,7 @@
   {
     "id": 684,
     "category": "Pengetahuan Umum",
-    "question": "Ayah Mary memiliki lima orang anak perempuan. Empat anak pertamanya diberi nama Nana, Nene, Nini, dan Nono. Siapakah nama anak perempuan yang kelima?",
+    "question": "Ayah Mary memiliki lima orang anak perempuan. Empat anak pertamanya Nana, Nene, Nini, dan Nono. Siapakah nama anak perempuan yang kelima?",
     "options": {
       "A": "Nunu",
       "B": "Nana",
@@ -8198,7 +8198,7 @@
   {
     "id": 685,
     "category": "Pengetahuan Umum",
-    "question": "Seorang laki-laki terjebak di dalam ruangan yang gelap gulita tanpa listrik. Di tangannya hanya ada satu batang korek api, sebuah lilin, sebuah kompor gas, dan sebuah lampu minyak. Apakah yang pertama kali harus dia nyalakan?",
+    "question": "Kamu terjebak di dalam ruangan yang gelap. Hanya ada satu batang korek api, lilin, kompor, dan lampu minyak. Apakah yang pertama kali harus dinyalakan?",
     "options": {
       "A": "Korek api",
       "B": "Lilin",
@@ -8210,7 +8210,7 @@
   {
     "id": 686,
     "category": "Pengetahuan Umum",
-    "question": "Jika diperlukan waktu tepat 10 menit untuk merebus satu butir telur ayam hingga matang sempurna, berapa lama waktu yang dibutuhkan untuk merebus 10 butir telur secara bersamaan?",
+    "question": "Jika diperlukan waktu tepat 10 menit untuk merebus satu butir telur hingga matang, berapa lama waktu yang dibutuhkan untuk merebus 10 butir telur bersamaan?",
     "options": {
       "A": "100 menit",
       "B": "50 menit",
@@ -8222,7 +8222,7 @@
   {
     "id": 687,
     "category": "Pengetahuan Umum",
-    "question": "Manakah yang secara fisik memiliki berat timbangan lebih besar jika diukur di bawah gravitasi bumi: 1 kilogram kapas murni atau 1 kilogram besi murni?",
+    "question": "Manakah yang secara fisik memiliki berat timbangan lebih besar jika diukur di bawah gravitasi bumi: 1 KG kapas atau 1 KG besi?",
     "options": {
       "A": "1 kg Besi",
       "B": "1 kg Kapas",
@@ -8237,7 +8237,7 @@
     "question": "Seorang arkeolog mengklaim telah menemukan koin emas kuno asli peninggalan Romawi yang di permukaannya tertulis angka tahun '45 SM'. Mengapa penemuan ini dianggap palsu?",
     "options": {
       "A": "Romawi belum menggunakan emas saat itu",
-      "B": "Masyarakat zaman itu belum mengenal konsep 'SM' (Sebelum Masehi)",
+      "B": "Zaman itu belum ada konsep 'SM'",
       "C": "Tahun 45 SM Romawi dipimpin oleh diktator",
       "D": "Angka yang digunakan terlalu modern"
     },
@@ -8246,9 +8246,9 @@
   {
     "id": 689,
     "category": "Pengetahuan Umum",
-    "question": "Di manakah Anda dapat menemukan kota, desa, jalan raya, sungai, dan lautan secara lengkap tetapi sama sekali tidak memiliki satu pun bangunan atau air?",
+    "question": "Di manakah kota, desa, jalan raya, sungai, dan lautan secara lengkap tetapi sama sekali tidak memiliki satu pun bangunan atau air?",
     "options": {
-      "A": "Di Planet Mars",
+      "A": "Di Plat nomor",
       "B": "Di dalam peta",
       "C": "Di Padang Pasir Sahara",
       "D": "Di dasar Palung Mariana"
@@ -8258,19 +8258,19 @@
   {
     "id": 690,
     "category": "Pengetahuan Umum",
-    "question": "Ada sebuah bungkus rokok di meja. Jika Anda mengambil 3 batang rokok dari satu bungkus penuh yang berisi total 16 batang rokok, berapa banyak rokok yang Anda miliki sekarang?",
+    "question": "Ada sebuah bungkus rokok. Diambil 3 batang rokok dari satu bungkus penuh yang berisi total 16 batang rokok, berapa banyak rokok yang Anda miliki sekarang?",
     "options": {
       "A": "13 batang rokok",
       "B": "3 batang rokok",
       "C": "16 batang rokok",
-      "D": "0 karena belum dibakar"
+      "D": "0 batang rokok"
     },
     "answer": "B"
   },
   {
     "id": 691,
     "category": "Pengetahuan Umum",
-    "question": "Jika Anda memiliki satu buah batu bata merah standar, lalu memotongnya tepat menjadi dua bagian yang sama besar, ada berapakah jumlah sudut yang dimiliki oleh salah satu potongan bata tersebut?",
+    "question": "Satu buah batu bata merah, lalu memotongnya tepat menjadi dua bagian sama besar, ada berapakah jumlah sudut yang dimiliki oleh salah satu potongan bata tersebut?",
     "options": {
       "A": "4 sudut",
       "B": "6 sudut",
@@ -8286,27 +8286,27 @@
     "options": {
       "A": "Pak Budi",
       "B": "Pak Joko",
-      "C": "Burung merak tidak bertelur",
+      "C": "Tidak ada",
       "D": "Dibagi dua sama rata"
     },
     "answer": "C"
   },
   {
     "id": 693,
-    "category": "Pengetahuan Umum",
-    "question": "Sebuah rumah joglo tradisional dibangun dengan karakteristik semua dinding luar dan jendelanya menghadap tepat ke arah selatan. Tiba-tiba ada seekor beruang melintas di depannya. Apakah warna bulu beruang tersebut?",
+    "category": "Pengetahuan Spongebob",
+    "question": "Di manakah tempat SpongeBob bekerja sehari-hari sebagai seorang koki goreng (fry cook)?",
     "options": {
-      "A": "Hitam",
-      "B": "Cokelat",
-      "C": "Putih",
-      "D": "Abu-abu"
+      "A": "The Chum Bucket",
+      "B": "Weenie Hut Jr's",
+      "C": "The Krusty Krab",
+      "D": "Goo Lagoon"
     },
     "answer": "C"
   },
   {
     "id": 694,
     "category": "Pengetahuan Umum",
-    "question": "Berapakah jumlah total kaki yang dimiliki oleh dua ekor kerbau jantan, satu ekor ayam betina, dan dua ekor laba-laba kebun jika digabungkan?",
+    "question": "Berapakah jumlah total kaki yang dimiliki oleh dua ekor kerbau, satu ekor ayam, dan dua ekor laba-laba jika digabungkan?",
     "options": {
       "A": "14 kaki",
       "B": "22 kaki",
@@ -8317,47 +8317,47 @@
   },
   {
     "id": 695,
-    "category": "Pengetahuan Umum",
-    "question": "Seorang wanita paruh baya lahir pada tahun 1950, tetapi kemarin dia baru saja merayakan ulang tahunnya yang ke-20 dengan meriah. Bagaimana hal logis ini bisa dijelaskan?",
+    "category": "Pengetahuan Spongebob",
+    "question": "Siapakah nama peliharaan SpongeBob yang wujudnya menyerupai siput namun bersuara seperti kucing?",
     "options": {
-      "A": "Dia berbohong tentang umurnya",
-      "B": "1950 adalah nomor kamar rumah sakit tempat dia lahir",
-      "C": "Dia lahir di planet lain",
-      "D": "Dia lahir pada tanggal 29 Februari"
+      "A": "Larry",
+      "B": "Gary",
+      "C": "Sandy",
+      "D": "Pearl"
     },
     "answer": "B"
   },
   {
     "id": 696,
-    "category": "Pengetahuan Umum",
-    "question": "Ada sebuah pohon kelapa yang sangat tinggi dan tegak. Di bawahnya terdapat empat hewan yang sedang mengantre: seekor singa, simpanse, jerapah, dan tupai. Jika tiba-tiba sebutir buah pisang jatuh dari atas, hewan manakah yang akan mendapatkannya pertama kali?",
+    "category": "Pengetahuan Spongebob",
+    "question": "Siapa nama anak Mr Crab di serial Spongebob Squarepants?",
     "options": {
-      "A": "Simpanse yang gesit",
-      "B": "Tupai yang lincah",
-      "C": "Jerapah yang tinggi",
-      "D": "Pohon kelapa tidak berbuah pisang"
+      "A": "Aga",
+      "B": "Sandy",
+      "C": "Gary",
+      "D": "Pearl"
     },
     "answer": "D"
   },
   {
     "id": 697,
     "category": "Peradaban Dunia",
-    "question": "Peradaban kuno yang terletak di antara Sungai Tigris dan Sungai Eufrat, yang dikenal sebagai salah satu tempat lahirnya peradaban manusia tertua di dunia adalah...",
+    "question": "Peradaban kuno yang terletak di antara Sungai Tigris dan Sungai Eufrat, salah satu tempat lahirnya peradaban manusia adalah...",
     "options": {
-      "A": "Peradaban Lembah Sungai Indus",
-      "B": "Peradaban Mesopotamia",
-      "C": "Peradaban Mesir Kuno",
+      "A": "Peradaban Sungai Indus",
+      "B": "Peradaban Mesir Kuno",
+      "C": "Peradaban Mesopotamia",
       "D": "Peradaban Yunani Kuno"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 698,
     "category": "Peradaban Dunia",
-    "question": "Sistem tulisan kuno berbentuk baji yang dikembangkan oleh bangsa Sumeria pada sekitar tahun 3500-3000 SM dinamakan...",
+    "question": "Sistem tulisan kuno berbentuk baji yang dikembangkan oleh bangsa Sumeria dinamakan...",
     "options": {
       "A": "Hieroglif",
-      "B": "Kuneiform (Cuneiform)",
+      "B": "Kuneiform",
       "C": "Sanskerta",
       "D": "Piktograf"
     },
@@ -8366,23 +8366,23 @@
   {
     "id": 699,
     "category": "Peradaban Dunia",
-    "question": "Bangunan piramida berundak berukuran besar yang berfungsi sebagai kuil pemujaan dewa pada peradaban Mesopotamia kuno disebut...",
+    "question": "Bangunan piramida berundak yang berfungsi sebagai kuil pemujaan dewa pada peradaban Mesopotamia kuno disebut...",
     "options": {
       "A": "Sfingis",
       "B": "Ziggurat",
       "C": "Parthenon",
-      "D": "Colosseum"
+      "D": "Piramida"
     },
     "answer": "B"
   },
   {
     "id": 700,
     "category": "Peradaban Dunia",
-    "question": "Kumpulan hukum tertulis tertua di dunia yang menerapkan prinsip keadilan 'mata ganti mata, gigi ganti gigi' (Lex Talionis) dari masa Babilonia Kuno adalah...",
+    "question": "Kumpulan hukum Babilonia Kuno yang menerapkan prinsip keadilan 'mata ganti mata, gigi ganti gigi' (Lex Talionis) adalah...",
     "options": {
       "A": "Hukum Dua Belas Tabel",
       "B": "Piagam Magna Carta",
-      "C": "Piagam Hammurabi (Codex Hammurabi)",
+      "C": "Piagam Hammurabi",
       "D": "Konstitusi Athena"
     },
     "answer": "C"
@@ -8390,7 +8390,7 @@
   {
     "id": 701,
     "category": "Peradaban Dunia",
-    "question": "Sistem tulisan formal berupa gambar dan simbol yang digunakan oleh masyarakat Mesir Kuno untuk mendokumentasikan sejarah pada dinding kuil atau papirus adalah...",
+    "question": "Sistem tulisan formal berupa gambar dan simbol yang digunakan oleh masyarakat Mesir Kuno untuk mendokumentasikan sejarah adalah...",
     "options": {
       "A": "Kuneiform",
       "B": "Hieroglif",
@@ -8402,7 +8402,7 @@
   {
     "id": 702,
     "category": "Peradaban Dunia",
-    "question": "Arsitektur makam megah berbentuk limas segitiga yang dibangun untuk para Firaun pada masa Kerajaan Lama Mesir Kuno, salah satunya terletak di Giza, disebut...",
+    "question": "Arsitektur makam megah berbentuk limas segitiga yang dibangun untuk para Firaun pada masa Kerajaan Lama Mesir Kuno disebut...",
     "options": {
       "A": "Kuil Karnak",
       "B": "Piramida",
@@ -8414,7 +8414,7 @@
   {
     "id": 703,
     "category": "Peradaban Dunia",
-    "question": "Dua kota kuno paling terkenal dan terencana dengan sangat baik yang menjadi pusat Peradaban Lembah Sungai Indus (sekitar 2500 SM) adalah...",
+    "question": "Dua kota kuno paling terkenal dan terencana dengan sangat baik yang menjadi pusat Peradaban Lembah Sungai Indus?",
     "options": {
       "A": "Babilonia dan Niniwe",
       "B": "Harappa dan Mohenjo-Daro",
@@ -8426,7 +8426,7 @@
   {
     "id": 704,
     "category": "Peradaban Dunia",
-    "question": "Filsuf besar dari Peradaban Yunani Kuno yang dikenal sebagai guru dari Aristoteles dan terkenal dengan metode dialektikanya dalam mencari kebenaran adalah...",
+    "question": "Filsuf besar dari Peradaban Yunani Kuno yang dikenal sebagai guru dari Aristoteles, terkenal dengan dialektikanya dalam mencari kebenaran adalah...",
     "options": {
       "A": "Socrates",
       "B": "Plato",
@@ -8438,7 +8438,7 @@
   {
     "id": 705,
     "category": "Peradaban Dunia",
-    "question": "Negara kota (Polis) di Yunani Kuno yang terkenal dengan sistem pemerintahan militeristik yang sangat ketat dan disiplin tempur yang tinggi adalah...",
+    "question": "Negara kota di Yunani Kuno yang terkenal dengan sistem pemerintahan militeristik yang sangat ketat adalah...",
     "options": {
       "A": "Athena",
       "B": "Sparta",
@@ -8450,7 +8450,7 @@
   {
     "id": 706,
     "category": "Peradaban Dunia",
-    "question": "Kaisar pertama yang berhasil mempersatukan daratan Tiongkok kuno dan memulai pembangunan Tembok Besar Cina serta kompleks makam Terakota adalah...",
+    "question": "Kaisar pertama yang berhasil mempersatukan daratan Tiongkok kuno dan memulai pembangunan Tembok Besar dan kompleks makam Terakota...",
     "options": {
       "A": "Han Wudi",
       "B": "Qin Shi Huang",
@@ -8462,19 +8462,19 @@
   {
     "id": 707,
     "category": "Peradaban Dunia",
-    "question": "Bangunan amfiteater raksasa di pusat kota Roma yang digunakan sebagai arena pertunjukan pertarungan gladiator pada masa Kekaisaran Romawi disebut...",
+    "question": "Bangunan amfiteater raksasa di pusat kota Roma yang digunakan sebagai arena pertunjukan pertarungan gladiator disebut...",
     "options": {
       "A": "Circus Maximus",
-      "B": "Colosseum",
+      "B": "Cololosseum",
       "C": "Pantheon",
-      "D": "Forum Romawi"
+      "D": "Colosseum"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 708,
     "category": "Peradaban Dunia",
-    "question": "Peradaban Amerika Kuno yang dikenal mahir dalam bidang astronomi, matematika (mengenal angka nol), dan memiliki sistem kalender yang sangat akurat adalah Peradaban...",
+    "question": "Peradaban Amerika Kuno yang dikenal mahir dalam bidang astronomi, matematika, dan memiliki sistem kalender adalah Peradaban...",
     "options": {
       "A": "Inka",
       "B": "Maya",
@@ -8486,19 +8486,19 @@
   {
     "id": 709,
     "category": "Peradaban Dunia",
-    "question": "Kawasan situs kota kuno peninggalan Peradaban Inka yang terletak di atas pegunungan Andes, Peru, dan sering dijuluki 'Kota yang Hilang' adalah...",
+    "question": "Kawasan situs kota kuno peninggalan Peradaban Inka terletak di atas pegunungan Andes, sering dijuluki 'Kota yang Hilang'...",
     "options": {
       "A": "Chichen Itza",
-      "B": "Machu Picchu",
-      "C": "Tenochtitlan",
-      "D": "Teotihuacan"
+      "B": "Tenochtitlan",
+      "C": "Machu Picchu",
+      "D": "Macha Gitchu"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 710,
     "category": "Peradaban Dunia",
-    "question": "Jalur perdagangan kuno internasional yang menghubungkan wilayah Tiongkok dengan dunia Barat (Eropa) untuk transaksi komoditas kain, rempah, dan kebudayaan disebut...",
+    "question": "Jalur perdagangan kuno yang menghubungkan wilayah Tiongkok dengan Barat disebut...",
     "options": {
       "A": "Jalur Dupa",
       "B": "Jalur Sutra",
@@ -8510,19 +8510,19 @@
   {
     "id": 711,
     "category": "Peradaban Dunia",
-    "question": "Peradaban maritim kuno di pesisir Laut Tengah yang sangat terkenal sebagai pedagang ulung dan pencipta sistem alfabet fonetis pertama di dunia adalah bangsa...",
+    "question": "Peradaban maritim di pesisir Laut Tengah yang terkenal sebagai pedagang ulung dan pencipta sistem alfabet fonetis pertama adalah...",
     "options": {
       "A": "Persia",
-      "B": "Fenisia (Phoenicia)",
-      "C": "Minoa",
+      "B": "Minoa",
+      "C": "Fenisia",
       "D": "Makedonia"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 712,
     "category": "Peradaban Dunia",
-    "question": "Periode transisi dalam sejarah Eropa setelah Abad Pertengahan yang ditandai dengan lahirnya kembali minat terhadap seni, sains, dan sastra klasik Yunani-Romawi disebut...",
+    "question": "Periode transisi dalam sejarah Eropa setelah Abad Pertengahan yang ditandai dengan lahirnya kembali minat seni, sains, dan sastra disebut...",
     "options": {
       "A": "Abad Pencerahan (Aufklärung)",
       "B": "Renaissance",
@@ -8534,7 +8534,7 @@
   {
     "id": 713,
     "category": "Peradaban Dunia",
-    "question": "Sistem pembagian kelas sosial atau tingkatan masyarakat yang sangat ketat dalam Peradaban Hindu kuno di India dinamakan sistem...",
+    "question": "Sistem pembagian kelas sosial yang sangat ketat dalam Peradaban Hindu kuno di India dinamakan...",
     "options": {
       "A": "Feodalisme",
       "B": "Kasta",
@@ -8546,34 +8546,34 @@
   {
     "id": 714,
     "category": "Peradaban Dunia",
-    "question": "Nama kota kuno yang menjadi pusat ibu kota dari Kekaisaran Romawi Timur (Bizantium), yang kemudian jatuh ke tangan Kesultanan Utsmaniyah pada tahun 1453 adalah...",
+    "question": "Nama kota kuno yang menjadi pusat ibu kota dari Kekaisaran Bizantium, yang kemudian jatuh ke tangan Kesultanan Utsmaniyah pada tahun 1453...",
     "options": {
       "A": "Roma",
-      "B": "Konstantinopel",
-      "C": "Alexandria",
+      "B": "Alexandria",
+      "C": "Konstantinopel",
       "D": "Yerusalem"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 715,
     "category": "Peradaban Dunia",
-    "question": "Ibu kota legendaris Peradaban Aztek yang dibangun di atas sebuah pulau di Danau Texcoco, yang kini menjadi lokasi modern dari Kota Meksiko (Mexico City) bernama...",
+    "question": "Ibu kota legendaris Peradaban Aztek yang dibangun di atas sebuah pulau di Danau Texcoco, kini menjadi lokasi dari Kota Meksiko bernama...",
     "options": {
       "A": "Cuzco",
-      "B": "Tenochtitlan",
+      "B": "Tikal",
       "C": "Palenque",
-      "D": "Tikal"
+      "D": "Tenochtitlan"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 716,
     "category": "Peradaban Dunia",
-    "question": "Peninggalan arsitektur saluran air megah bertingkat dari zaman Kekaisaran Romawi yang berfungsi mengalirkan air bersih dari pegunungan menuju pusat kota disebut...",
+    "question": "Peninggalan arsitektur saluran air bertingkat dari zaman Romawi berfungsi mengalirkan air dari pegunungan menuju kota disebut...",
     "options": {
       "A": "Via Appia",
-      "B": "Akuaduk (Aqueduct)",
+      "B": "Akuaduk ",
       "C": "Amfiteater",
       "D": "Thermae"
     },
@@ -8582,7 +8582,7 @@
   {
     "id": 717,
     "category": "Neuroscience",
-    "question": "Bagian dari sel saraf (neuron) yang berfungsi sebagai penerima sinyal atau impuls dari neuron lain dan menghantarkannya ke badan sel disebut...",
+    "question": "Bagian dari neuron, berfungsi sebagai penerima sinyal dari neuron lain dan menghantarkannya ke badan sel disebut...",
     "options": {
       "A": "Akson",
       "B": "Dendrit",
@@ -8594,19 +8594,19 @@
   {
     "id": 718,
     "category": "Neuroscience",
-    "question": "Lapisan pelindung kaya lemak yang menyelubungi akson untuk mempercepat transmisi sinyal listrik di sepanjang sel saraf dinamakan...",
+    "question": "Lapisan pelindung kaya lemak yang menyelubungi akson untuk mempercepat transmisi sinyal listrik di sepanjang sel saraf...",
     "options": {
       "A": "Nodus Ranvier",
-      "B": "Selubung Myelin",
+      "B": "Astroset",
       "C": "Soma",
-      "D": "Astroset"
+      "D": "Selubung Myelin"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 719,
     "category": "Neuroscience",
-    "question": "Celah sempit yang menjadi titik temu antara ujung akson satu neuron dengan dendrit neuron lainnya, tempat terjadinya perpindahan sinyal kimiawi disebut...",
+    "question": "Celah sempit yang menjadi titik temu antara ujung akson satu neuron dengan dendrit neuron lainnya disebut...",
     "options": {
       "A": "Celah Sinapsis",
       "B": "Nodus Ranvier",
@@ -8618,7 +8618,7 @@
   {
     "id": 720,
     "category": "Neuroscience",
-    "question": "Zat kimia pembawa pesan yang dilepaskan oleh neuron untuk mengirimkan sinyal ke sel target (seperti dopamin, serotonin, atau asetilkolin) disebut...",
+    "question": "Zat kimia pembawa pesan yang dilepaskan oleh neuron untuk mengirimkan sinyal ke sel target disebut...",
     "options": {
       "A": "Hormon",
       "B": "Neurotransmitter",
@@ -8630,22 +8630,22 @@
   {
     "id": 721,
     "category": "Neuroscience",
-    "question": "Lobus atau bagian otak besar yang terletak di area belakang kepala dan bertanggung jawab utama dalam memproses informasi visual (penglihatan) adalah...",
+    "question": "Lobus yang terletak di area belakang kepala dan bertanggung jawab utama dalam memproses informasi visual adalah...",
     "options": {
       "A": "Lobus Frontalis",
-      "B": "Lobus Aksipitalis (Occipital)",
-      "C": "Lobus Parietalis",
+      "B": "Lobus Parietalis",
+      "C": "Lobus Aksipitalis",
       "D": "Lobus Temporalis"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 722,
     "category": "Neuroscience",
-    "question": "Bagian otak kecil yang terletak di bawah otak besar bagian belakang dan berfungsi penting dalam menjaga keseimbangan, postur tubuh, serta koordinasi gerakan motorik adalah...",
+    "question": "Bagian otak kecil yang terletak di bawah otak besar bagian belakang dan berfungsi penting dalam menjaga keseimbangan adalah...",
     "options": {
       "A": "Serebrum",
-      "B": "Serebelum (Cerebellum)",
+      "B": "Serebelum",
       "C": "Talamus",
       "D": "Hipotalamus"
     },
@@ -8654,10 +8654,10 @@
   {
     "id": 723,
     "category": "Neuroscience",
-    "question": "Struktur berbentuk mirip kuda laut di dalam sistem limbik otak yang memiliki peran krusial dalam pembentukan, konsolidasi, dan penyimpanan memori jangka panjang adalah...",
+    "question": "Struktur di dalam limbik otak yang memiliki peran dalam pembentukan, konsolidasi, dan penyimpanan memori jangka panjang adalah...",
     "options": {
       "A": "Amigdala",
-      "B": "Hipokampus (Hippocampus)",
+      "B": "Hipokampus",
       "C": "Korpus Kalosum",
       "D": "Medula Oblongata"
     },
@@ -8666,31 +8666,31 @@
   {
     "id": 724,
     "category": "Neuroscience",
-    "question": "Kemampuan otak untuk berubah, beradaptasi, dan mengorganisasi ulang struktur atau fungsinya sebagai respons terhadap pembelajaran, pengalaman, atau cedera disebut...",
+    "question": "Kemampuan otak untuk berubah, beradaptasi, dan mengorganisasi ulang fungsinya sebagai respons pembelajaran, pengalaman, atau cedera disebut...",
     "options": {
       "A": "Neurogenesis",
-      "B": "Neuroplastisitas (Brain Plasticity)",
-      "C": "Sinaptogenesis",
+      "B": "Sinaptogenesis",
+      "C": "Neuroplastisitas",
       "D": "Pruning Sinapsis"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 725,
     "category": "Neuroscience",
-    "question": "Penyakit neurodegeneratif progresif yang ditandai dengan hilangnya memori secara bertahap akibat penumpukan plak protein amiloid-beta dan kekusutan neurofibrilar di otak adalah...",
+    "question": "Penyakit neurodegeneratif progresif yang ditandai dengan hilangnya memori secara bertahap akibat penumpukan plak protein amiloid-beta adalah...",
     "options": {
       "A": "Penyakit Parkinson",
-      "B": "Penyakit Alzheimer",
-      "C": "Sklerosis Lateral Amiotrofik (ALS)",
+      "B": "Sklerosis Lateral Amiotrofik",
+      "C": "Penyakit Alzheimer",
       "D": "Penyakit Huntington"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "id": 726,
     "category": "Neuroscience",
-    "question": "Bagian dari batang otak (brainstem) yang berfungsi mengontrol fungsi otonom vital bertahan hidup, seperti detak jantung, tekanan darah, dan pernapasan spontan adalah...",
+    "question": "Bagian dari brainstem yang berfungsi mengontrol fungsi otonom vital, seperti detak jantung adalah...",
     "options": {
       "A": "Midbrain (Otak Tengah)",
       "B": "Medula Oblongata",
@@ -8702,7 +8702,7 @@
   {
     "id": 727,
     "category": "Aeronautika",
-    "question": "Gaya aerodinamika yang dihasilkan oleh perbedaan tekanan udara di atas dan di bawah sayap pesawat, yang berfungsi untuk mengangkat pesawat ke atas melawan gaya gravitasi disebut...",
+    "question": "Gaya aerodinamika yang dihasilkan oleh perbedaan tekanan udara di atas dan di bawah sayap pesawat disebut...",
     "options": {
       "A": "Thrust (Gaya Dorong)",
       "B": "Lift (Gaya Angkat)",
@@ -8714,7 +8714,7 @@
   {
     "id": 728,
     "category": "Aeronautika",
-    "question": "Prinsip fisika fluida yang menyatakan bahwa peningkatan kecepatan fluida terjadi bersamaan dengan penurunan tekanan, menjadi dasar teoritis pembentukan gaya angkat pada sayap pesawat adalah...",
+    "question": "Prinsip fisika fluida yang menyatakan peningkatan kecepatan fluida terjadi bersamaan dengan penurunan tekanan adalah...",
     "options": {
       "A": "Hukum Pascal",
       "B": "Prinsip Bernoulli",
@@ -8726,7 +8726,7 @@
   {
     "id": 729,
     "category": "Aeronautika",
-    "question": "Bentuk penampang melintang dari sayap pesawat yang dirancang secara aerodinamis untuk menghasilkan gaya angkat maksimum dengan gaya hambat minimum dinamakan...",
+    "question": "Penampang melintang dari sayap pesawat untuk menghasilkan gaya angkat maksimum dengan gaya hambat minimum dinamakan...",
     "options": {
       "A": "Fuselage",
       "B": "Airfoil",
@@ -8738,55 +8738,55 @@
   {
     "id": 730,
     "category": "Aeronautika",
-    "question": "Sudut yang terbentuk antara garis kord (chord line) pada sayap pesawat dengan arah datangnya aliran udara relatif (relative wind) disebut...",
+    "question": "Sudut yang terbentuk antara garis kord pada sayap pesawat dengan arah datangnya aliran udara relatif disebut...",
     "options": {
-      "A": "Sudut Serang (Angle of Attack)",
+      "A": "Sudut Pitch",
       "B": "Sudut Dihedral",
-      "C": "Sudut Pitch",
+      "C": "Sudut Serang",
       "D": "Sudut Sweepback"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "id": 731,
     "category": "Aeronautika",
-    "question": "Bagian kemudi sekunder di tepi belakang ujung sayap pesawat yang berfungsi untuk mengontrol gerakan perbankan (rolling) atau miring ke kanan dan ke kiri adalah...",
+    "question": "Bagian kemudi sekunder di tepi belakang ujung sayap pesawat yang berfungsi untuk mengontrol gerakan rolling adalah...",
     "options": {
       "A": "Elevator",
-      "B": "Aileron",
+      "B": "Flap",
       "C": "Rudder",
-      "D": "Flap"
+      "D": "Aileron"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 732,
     "category": "Aeronautika",
-    "question": "Kondisi berbahaya dalam penerbangan di mana sayap pesawat kehilangan gaya angkat secara mendadak akibat sudut serang yang terlalu tinggi sehingga aliran udara terpisah dari permukaan sayap disebut...",
+    "question": "Kondisi berbahaya dalam penerbangan di mana sayap pesawat kehilangan gaya angkat secara mendadak disebut...",
     "options": {
-      "A": "Stall",
+      "A": "Gliding",
       "B": "Cruising",
       "C": "Take-off",
-      "D": "Gliding"
+      "D": "Stall"
     },
-    "answer": "A"
+    "answer": "D"
   },
   {
     "id": 733,
     "category": "Aeronautika",
-    "question": "Bilangan tak berdimensi yang digunakan dalam aeronautika untuk menyatakan rasio antara kecepatan udara sebuah pesawat dengan kecepatan suara di medium tersebut dinamakan...",
+    "question": "Bilangan tak berdimensi untuk menyatakan rasio antara kecepatan sebuah pesawat dengan kecepatan suara dinamakan...",
     "options": {
       "A": "Nomor Reynolds",
-      "B": "Nomor Mach",
+      "B": "Nomor Knudsen",
       "C": "Nomor Froude",
-      "D": "Nomor Knudsen"
+      "D": "Nomor Mach"
     },
-    "answer": "B"
+    "answer": "D"
   },
   {
     "id": 734,
     "category": "Aeronautika",
-    "question": "Komponen utama pada ekor pesawat yang terpasang secara vertikal dan berfungsi untuk mengendalikan gerakan geleng ke kanan-kiri (yawing) melalui rudder adalah...",
+    "question": "Komponen utama pada ekor pesawat yang terpasang vertikal dan berfungsi untuk mengendalikan gerakan geleng ke kanan-kiri adalah...",
     "options": {
       "A": "Horizontal Stabilizer",
       "B": "Vertical Stabilizer",
@@ -8798,10 +8798,10 @@
   {
     "id": 735,
     "category": "Aeronautika",
-    "question": "Fenomena hambatan udara yang terjadi akibat adanya perbedaan tekanan di ujung sayap, menghasilkan pusaran udara berbentuk spiral yang dapat mengganggu pesawat di belakangnya disebut...",
+    "question": "Hambatan udara yang terjadi akibat adanya perbedaan tekanan di ujung sayap, menghasilkan pusaran udara yang dapat mengganggu pesawat di belakangnya disebut...",
     "options": {
       "A": "Parasitic Drag",
-      "B": "Wingtip Vortex (Pergolakan Ujung Sayap)",
+      "B": "Wingtip Vortex",
       "C": "Skin Friction",
       "D": "Wave Drag"
     },
@@ -8810,7 +8810,7 @@
   {
     "id": 736,
     "category": "Aeronautika",
-    "question": "Jenis mesin jet modern yang paling banyak digunakan pada pesawat komersial saat ini, memanfaatkan kipas besar di bagian depan untuk mengalirkan sebagian udara bypass di sekitar inti mesin guna efisiensi bahan bakar adalah...",
+    "question": "Jenis mesin jet modern yang paling banyak digunakan pada pesawat komersial saat ini adalah...",
     "options": {
       "A": "Turbojet",
       "B": "Turbofan",
@@ -8822,7 +8822,7 @@
   {
     "id": 737,
     "category": "Ilmu Militer",
-    "question": "Pendekatan atau doktrin militer abad ke-20 yang menekankan pada kecepatan, kejutan, dan pemusatan kekuatan mekanis (tank dan udara) untuk menembus garis pertahanan musuh dengan cepat disebut...",
+    "question": "Pendekatan militer abad ke-20 yang menekankan pada kecepatan, kejutan, dan kekuatan tank dan udara untuk menembus pertahanan musuh dengan cepat disebut...",
     "options": {
       "A": "Attritions Warfare (Perang Atrici)",
       "B": "Blitzkrieg (Perang Kilat)",
@@ -8834,22 +8834,22 @@
   {
     "id": 738,
     "category": "Ilmu Militer",
-    "question": "Ilmu atau seni militer yang berkaitan dengan perencanaan dan pelaksanaan pergerakan, pemeliharaan, serta penyediaan logistik, pasokan, dan transportasi pasukan tempur disebut...",
+    "question": "Seni militer yang berkaitan dengan perencanaan dan pelaksanaan pergerakan, pemeliharaan, logistik, dan transportasi pasukan disebut...",
     "options": {
-      "A": "Taktik",
+      "A": "Taktik Militer",
       "B": "Logistik Militer",
-      "C": "Strategi",
-      "D": "Intelijen"
+      "C": "Distribusi Militer",
+      "D": "Intelijen Militer"
     },
     "answer": "B"
   },
   {
     "id": 739,
     "category": "Ilmu Militer",
-    "question": "Karya tulis klasik tentang strategi militer setebal 13 bab yang ditulis oleh jenderal Tiongkok kuno bernama Sun Tzu pada abad ke-5 SM berjudul...",
+    "question": "Karya tulis klasik tentang strategi militer, ditulis oleh jenderal Tiongkok Sun Tzu pada abad ke-5 SM berjudul...",
     "options": {
       "A": "On War",
-      "B": "The Art of War (Seni Berperang)",
+      "B": "The Art of War",
       "C": "The Prince",
       "D": "The Book of Five Rings"
     },
@@ -8858,10 +8858,10 @@
   {
     "id": 740,
     "category": "Ilmu Militer",
-    "question": "Jenis pertempuran di mana dua kekuatan militer yang relatif seimbang saling mengunci posisi di garis depan yang statis dengan memanfaatkan jaringan parit perlindungan yang dalam disebut...",
+    "question": "Jenis pertempuran di mana dua militer relatif seimbang saling mengunci posisi di garis depan  dengan memanfaatkan parit perlindungan disebut...",
     "options": {
-      "A": "Perang Gerilya",
-      "B": "Perang Parit (Trench Warfare)",
+      "A": "Guerilla Warfare",
+      "B": "Trench Warfare",
       "C": "Perang Asimetris",
       "D": "Perang Amfibi"
     },
@@ -8870,7 +8870,7 @@
   {
     "id": 741,
     "category": "Ilmu Militer",
-    "question": "Sistem radar militer pasif atau aktif yang digunakan khusus di bawah air oleh kapal selam atau kapal perang untuk mendeteksi dan melacak keberadaan objek lain menggunakan gelombang suara disebut...",
+    "question": "Sistem radar militer yang digunakan di bawah air untuk mendeteksi keberadaan objek lain menggunakan gelombang suara disebut...",
     "options": {
       "A": "Radar",
       "B": "Sonar",
@@ -8882,7 +8882,7 @@
   {
     "id": 742,
     "category": "Ilmu Militer",
-    "question": "Konsep perang modern di mana salah satu pihak yang bertikai memiliki kekuatan militer atau teknologi yang jauh lebih lemah dibandingkan lawannya, sehingga menggunakan metode non-konvensional seperti gerilya disebut...",
+    "question": "Konsep perang modern di mana salah satu pihak memiliki kekuatan yang lebih lemah dibandingkan lawannya, sehingga menggunakan metode gerilya disebut...",
     "options": {
       "A": "Perang Simetris",
       "B": "Perang Asimetris",
@@ -8894,7 +8894,7 @@
   {
     "id": 743,
     "category": "Ilmu Militer",
-    "question": "Unit atau cabang militer yang bertugas mengoperasikan senjata api berat jarak jauh (seperti meriam, howitzer, atau roket) untuk memberikan dukungan tembakan bagi pasukan infanteri disebut...",
+    "question": "Unit atau cabang militer yang bertugas mengoperasikan senjata berat jarak jauh untuk memberikan dukungan tembakan bagi pasukan infanteri?",
     "options": {
       "A": "Kavaleri",
       "B": "Artileri",
@@ -8906,10 +8906,10 @@
   {
     "id": 744,
     "category": "Ilmu Militer",
-    "question": "Istilah militer yang digunakan untuk menggambarkan operasi gabungan pemindahan pasukan tempur menggunakan kapal laut menuju ke daratan yang dikuasai musuh disebut operasi...",
+    "question": "Istilah militer yang untuk menggambarkan operasi gabungan pemindahan pasukan tempur menggunakan kapal laut menuju ke daratan yang dikuasai musuh?",
     "options": {
       "A": "Amfibi",
-      "B": "Lintas Udara (Airborne)",
+      "B": "Airborne",
       "C": "Blokade Laut",
       "D": "Infiltrasi"
     },
@@ -8918,7 +8918,7 @@
   {
     "id": 745,
     "category": "Ilmu Militer",
-    "question": "Filsuf dan jenderal militer asal Prusia yang menulis buku teoretis militer barat terkenal berjudul 'Vom Kriege' (On War) dan memopulerkan istilah 'Kabut Perang' (Fog of War) adalah...",
+    "question": "Filsuf dan jenderal militer asal Prusia yang menulis buku berjudul 'Vom Kriege' dan memopulerkan istilah 'Fog of War' adalah...",
     "options": {
       "A": "Napoleon Bonaparte",
       "B": "Carl von Clausewitz",
@@ -8930,7 +8930,7 @@
   {
     "id": 746,
     "category": "Ilmu Militer",
-    "question": "Hukum internasional yang mengatur batasan-batasan tata cara berperang serta perlindungan bagi korban perang, warga sipil, dan tawanan militer tertuang dalam...",
+    "question": "Hukum internasional yang mengatur batasan-batasan tata cara berperang tertuang dalam...",
     "options": {
       "A": "Piagam PBB",
       "B": "Konvensi Jenewa",
@@ -8942,7 +8942,7 @@
   {
     "id": 747,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Kelompok hewan vertebrata yang memiliki ciri utama berdarah panas, bernapas dengan paru-paru, memiliki rambut, dan betinanya menyusui anaknya disebut...",
+    "question": "Kelompok hewan vertebrata yang memiliki ciri utama berdarah panas, bernapas dengan paru-paru, memiliki rambut disebut...",
     "options": {
       "A": "Aves",
       "B": "Mamalia",
@@ -8954,7 +8954,7 @@
   {
     "id": 748,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Hewan endemik Indonesia yang termasuk dalam kategori kadal terbesar di dunia dan hanya ditemukan di beberapa pulau di Nusa Tenggara Timur adalah...",
+    "question": "Hewan endemik Indonesia, kadal terbesar di dunia dan hanya ditemukan di beberapa pulau di Nusa Tenggara Timur adalah...",
     "options": {
       "A": "Biawak Air",
       "B": "Komodo",
@@ -8966,7 +8966,7 @@
   {
     "id": 749,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Apakah istilah biologis untuk proses perubahan bentuk tubuh dan struktur yang dialami oleh hewan tertentu (seperti katak dan kupu-kupu) dari fase larva hingga dewasa?",
+    "question": "Apakah istilah biologis untuk proses perubahan tubuh yang dialami oleh hewan tertentu dari fase larva hingga dewasa?",
     "options": {
       "A": "Evolusi",
       "B": "Metamorfosis",
@@ -8978,7 +8978,7 @@
   {
     "id": 750,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Mamalia laut yang terkenal cerdas dan bernapas menggunakan paru-paru melalui lubang sembur (blowhole) di atas kepalanya, bukan menggunakan insang, adalah...",
+    "question": "Mamalia laut yang terkenal cerdas dan bernapas menggunakan paru-paru melalui lubang sembur di atas kepalanya, adalah...",
     "options": {
       "A": "Hiu Martil",
       "B": "Lumba-lumba",
@@ -8990,7 +8990,7 @@
   {
     "id": 751,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Kemampuan adaptasi tingkah laku pada hewan bunglon yang dapat mengubah warna kulitnya sesuai dengan lingkungan sekitar untuk mengelabui predator disebut...",
+    "question": "Kemampuan adaptasi bunglon yang dapat mengubah warna kulitnya sesuai dengan lingkungan sekitar untuk mengelabui predator disebut...",
     "options": {
       "A": "Autotomi",
       "B": "Mimikri",
@@ -9002,7 +9002,7 @@
   {
     "id": 752,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Satu-satunya mamalia di dunia yang memiliki kemampuan untuk terbang secara aktif secara anatomi (bukan sekadar meluncur atau melayang) adalah...",
+    "question": "Satu-satunya mamalia di dunia yang memiliki kemampuan untuk terbang secara aktif secara anatomi adalah...",
     "options": {
       "A": "Tupai Terbang",
       "B": "Kelelawar",
@@ -9014,7 +9014,7 @@
   {
     "id": 753,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Hewan yang memakan jaringan tumbuhan atau bahan organik berbasis tanaman dalam rantai makanan ekosistem dikategorikan sebagai hewan...",
+    "question": "Hewan yang memakan jaringan tumbuhan dalam rantai makanan ekosistem dikategorikan sebagai hewan...",
     "options": {
       "A": "Karnivora",
       "B": "Herbivora",
@@ -9026,7 +9026,7 @@
   {
     "id": 754,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Sistem navigasi biologis menggunakan pantulan gelombang suara berfrekuensi tinggi yang digunakan oleh lumba-lumba dan kelelawar untuk mendeteksi objek di sekitarnya disebut...",
+    "question": "Sistem navigasi biologis menggunakan pantulan gelombang suara berfrekuensi tinggi yang digunakan lumba-lumba dan kelelawar disebut...",
     "options": {
       "A": "Sonar Buatan",
       "B": "Ekolokasi",
@@ -9038,22 +9038,22 @@
   {
     "id": 755,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Jenis burung karnivora yang menduduki puncak rantai makanan, memiliki penglihatan yang sangat tajam, paruh melengkung kuat, dan cakar yang kokoh untuk mencengkeram mangsa adalah...",
+    "question": "Jenis burung karnivora yang menduduki puncak rantai makanan adalah...",
     "options": {
       "A": "Burung Kolibri",
       "B": "Burung Elang",
       "C": "Burung Merpati",
-      "D": "Burung Pelatuk"
+      "D": "Burung Garuda"
     },
     "answer": "B"
   },
   {
     "id": 756,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Hewan yang tidak memiliki tulang belakang di dalam struktur anatomi tubuhnya dimasukkan ke dalam kelompok besar yang disebut...",
+    "question": "Hewan yang tidak memiliki tulang belakang di dalam struktur tubuhnya dimasukkan ke dalam kelompok besar yang disebut...",
     "options": {
       "A": "Vertebrata",
-      "B": "Invertebrata (Avertebrata)",
+      "B": "Invertebrata",
       "C": "Mamalia",
       "D": "Reptilia"
     },
@@ -9062,7 +9062,7 @@
   {
     "id": 757,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Ciri khas adaptasi morfologi pada burung kolibri yang berfungsi untuk mempermudah menghisap nektar atau madu dari dasar bunga yang dalam adalah...",
+    "question": "Ciri khas adaptasi morfologi burung kolibri yang berfungsi untuk mempermudah menghisap nektar dari dasar bunga adalah...",
     "options": {
       "A": "Paruh pendek dan kokoh",
       "B": "Paruh panjang dan runcing",
@@ -9074,7 +9074,7 @@
   {
     "id": 758,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Kelompok hewan bertubuh lunak yang dilindungi oleh cangkang keras berbasis kalsium karbonat, seperti kerang, siput, dan cumi-cumi, diklasifikasikan ke dalam filum...",
+    "question": "Kelompok hewan bertubuh lunak yang dilindungi oleh cangkang keras berbasis kalsium karbonat, diklasifikasikan ke filum...",
     "options": {
       "A": "Arthropoda",
       "B": "Mollusca",
@@ -9086,7 +9086,7 @@
   {
     "id": 759,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Hewan yang memiliki kemampuan unik untuk melahirkan anak (vivipar) tetapi juga memiliki kantung di perutnya untuk membesarkan bayinya yang baru lahir disebut...",
+    "question": "Hewan yang memiliki kemampuan melahirkan anak tetapi juga memiliki kantung di perutnya untuk membesarkan bayinya?",
     "options": {
       "A": "Karnivora",
       "B": "Marsupial",
@@ -9098,7 +9098,7 @@
   {
     "id": 760,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Apakah organ pernapasan utama yang digunakan oleh berudu (kecebong) saat hidup sepenuhnya di dalam air sebelum bermetamorfosis menjadi katak dewasa?",
+    "question": "Apakah organ pernapasan utama yang digunakan oleh berudu saat hidup sepenuhnya di dalam air sebelum menjadi katak?",
     "options": {
       "A": "Paru-paru",
       "B": "Insang",
@@ -9110,7 +9110,7 @@
   {
     "id": 761,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Spesies primata besar berambut kemerahan yang memiliki tingkat kecerdasan tinggi dan merupakan hewan endemik yang terancam punah di hutan Kalimantan dan Sumatra adalah...",
+    "question": "Spesies primata besar dengan tingkat kecerdasan tinggi yang terancam punah di hutan Kalimantan dan Sumatra?",
     "options": {
       "A": "Simpanse",
       "B": "Orangutan",
@@ -9122,7 +9122,7 @@
   {
     "id": 762,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Tindakan adaptasi tingkah laku berupa tidur panjang yang dilakukan oleh beberapa hewan pada musim dingin untuk menghemat energi dinamakan...",
+    "question": "Tidur panjang yang dilakukan oleh beberapa hewan pada musim dingin untuk menghemat energi dinamakan...",
     "options": {
       "A": "Estivasi",
       "B": "Hibernasi",
@@ -9134,7 +9134,7 @@
   {
     "id": 763,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Apakah fungsi utama dari punuk yang terdapat pada punggung hewan unta yang hidup di habitat gurun pasir gersang?",
+    "question": "Apakah fungsi utama dari punuk Unta?",
     "options": {
       "A": "Tempat menyimpan cadangan air",
       "B": "Tempat menyimpan cadangan lemak (energi)",
@@ -9146,7 +9146,7 @@
   {
     "id": 764,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Kelompok hewan avertebrata yang memiliki kaki beruas-ruas atau berbuku-buku, serta memiliki rangka luar (eksoskeleton) keras dari zat kitin (seperti serangga dan udang) adalah...",
+    "question": "Kelompok hewan avertebrata yang memiliki kaki beruas-ruas, memiliki rangka luar keras dari zat kitin adalah...",
     "options": {
       "A": "Annelida",
       "B": "Arthropoda",
@@ -9158,7 +9158,7 @@
   {
     "id": 765,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Hewan mamalia semi-akuatik endemik Australia yang sangat unik karena berkembang biak dengan cara bertelur (ovipar) tetapi tetap menyusui anaknya adalah...",
+    "question": "Mamalia semi-akuatik endemik Australia yang berkembang biak dengan cara bertelur tetapi tetap menyusui anaknya?",
     "options": {
       "A": "Kanguru",
       "B": "Platypus",
@@ -9170,7 +9170,7 @@
   {
     "id": 766,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Sistem pernapasan khusus yang digunakan oleh kelompok serangga (Insecta), berupa jaringan tabung udara yang bermuara pada lubang kecil (spirakel) di sisi tubuhnya dinamakan...",
+    "question": "Sistem pernapasan khusus yang digunakan oleh kelompok serangga dinamakan...",
     "options": {
       "A": "Paru-paru Buku",
       "B": "Trakea",
@@ -9182,7 +9182,7 @@
   {
     "id": 767,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Proses biokimia pada tumbuhan hijau yang menggunakan bantuan cahaya matahari untuk mengubah karbondioksida dan air menjadi glukosa serta oksigen disebut...",
+    "question": "Proses biokimia pada tumbuhan yang menggunakan cahaya matahari untuk mengubah karbondioksida dan air menjadi glukosa serta oksigen disebut...",
     "options": {
       "A": "Respirasi",
       "B": "Fotosintesis",
@@ -9194,7 +9194,7 @@
   {
     "id": 768,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Zat hijau daun yang berfungsi utama untuk menyerap radiasi cahaya matahari dalam proses fotosintesis dinamakan...",
+    "question": "Zat hijau daun yang berfungsi utama untuk menyerap radiasi cahaya matahari dalam proses fotosintesis?",
     "options": {
       "A": "Karotenoid",
       "B": "Klorofil",
@@ -9206,7 +9206,7 @@
   {
     "id": 769,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Jaringan pembuluh angkut pada tumbuhan vaskular yang berfungsi untuk mengedarkan hasil fotosintesis dari daun ke seluruh bagian tumbuhan adalah...",
+    "question": "Jaringan pembuluh angkut pada tumbuhan vaskular, berfungsi mengedarkan hasil fotosintesis dari daun ke seluruh bagian tumbuhan?",
     "options": {
       "A": "Xilem",
       "B": "Floem",
@@ -9218,7 +9218,7 @@
   {
     "id": 770,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Jaringan pembuluh pada tumbuhan yang bertugas mengangkut air dan garam mineral dari dalam tanah melalui akar menuju ke daun adalah...",
+    "question": "Jaringan pembuluh tumbuhan yang bertugas mengangkut air dan garam dari dalam tanah melalui akar menuju ke daun adalah...",
     "options": {
       "A": "Floem",
       "B": "Xilem",
@@ -9230,7 +9230,7 @@
   {
     "id": 771,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Celah atau lubang kecil yang terdapat pada epidermis daun tumbuhan, berfungsi sebagai tempat terjadinya pertukaran gas oksigen dan karbondioksida disebut...",
+    "question": "Celah yang terdapat pada epidermis daun tumbuhan, berfungsi sebagai tempat pertukaran gas oksigen dan karbondioksida?",
     "options": {
       "A": "Lentisel",
       "B": "Stomata",
@@ -9242,7 +9242,7 @@
   {
     "id": 772,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Tumbuhan yang bijinya tidak dilindungi oleh bakal buah (tumbuhan berbiji terbuka), seperti pohon pinus, pakis haji, dan melinjo dikelompokkan ke dalam...",
+    "question": "Tumbuhan yang bijinya tidak dilindungi oleh bakal buah dikelompokkan ke dalam?",
     "options": {
       "A": "Angiospermae",
       "B": "Gymnospermae",
@@ -9254,7 +9254,7 @@
   {
     "id": 773,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Kelompok tumbuhan berbiji tertutup yang memiliki ciri khas bijinya berkeping dua, berakar tunggang, dan tulang daunnya menyirip atau menjari dinamakan...",
+    "question": "Kelompok tumbuhan yang memiliki ciri bijinya berkeping dua, berakar tunggang, dan tulang daunnya menyirip atau menjari?",
     "options": {
       "A": "Monokotil",
       "B": "Dikotil",
@@ -9266,7 +9266,7 @@
   {
     "id": 774,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Bunga bangkai raksasa endemik Sumatra yang memegang rekor sebagai tumbuhan dengan struktur perbungaan (bunga majemuk) terbesar di dunia adalah...",
+    "question": "Bunga bangkai raksasa endemik Sumatra pemegang rekor sebagai tumbuhan dengan struktur perbungaan terbesar di dunia?",
     "options": {
       "A": "Rafflesia arnoldii",
       "B": "Amorphophallus titanum",
@@ -9278,7 +9278,7 @@
   {
     "id": 775,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Tumbuhan parasit obligat terkenal yang tidak memiliki daun dan akar sejati, serta terkenal memiliki bunga tunggal terbesar di dunia adalah...",
+    "question": "Tumbuhan parasit obligat yang tidak memiliki daun dan akar sejati, serta terkenal memiliki bunga terbesar di dunia adalah...",
     "options": {
       "A": "Amorphophallus titanum",
       "B": "Rafflesia arnoldii",
@@ -9290,7 +9290,7 @@
   {
     "id": 776,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Jenis flora karnivora yang memodifikasi ujung daunnya membentuk kantung unik untuk menjebak dan mencerna serangga guna memenuhi kebutuhan nitrogennya adalah...",
+    "question": "Jenis flora karnivora yang ujung daunnya membentuk kantung unik untuk menjebak serangga adalah...",
     "options": {
       "A": "Pohon Bakau",
       "B": "Kantong Semar (Nepenthes)",
@@ -9302,7 +9302,7 @@
   {
     "id": 777,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Alat kelamin jantan pada bunga yang berfungsi menghasilkan serbuk sari (polen) untuk proses penyerbukan disebut...",
+    "question": "Alat kelamin jantan pada bunga yang berfungsi menghasilkan serbuk sari disebut?",
     "options": {
       "A": "Putik (Pistillum)",
       "B": "Benang Sari (Stamen)",
@@ -9314,10 +9314,10 @@
   {
     "id": 778,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Bentuk adaptasi morfologi pada tanaman kaktus yang hidup di lingkungan gersang (xerofit) untuk meminimalkan penguapan air secara berlebih adalah...",
+    "question": "Bentuk adaptasi morfologi kaktus yang hidup di lingkungan gersang untuk meminimalkan penguapan air?",
     "options": {
       "A": "Daun lebar dan tipis",
-      "B": "Daun termodifikasi menjadi duri",
+      "B": "Daun menjadi duri",
       "C": "Batang berongga udara",
       "D": "Akar yang menggantung"
     },
@@ -9326,7 +9326,7 @@
   {
     "id": 779,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Gerak esonom tumbuhan yang arah pergerakan atau pertumbuhannya dipengaruhi oleh arah datangnya rangsangan cahaya matahari disebut...",
+    "question": "Gerak esonom tumbuhan yang arah pertumbuhannya dipengaruhi oleh arah cahaya matahari disebut?",
     "options": {
       "A": "Geotropisme",
       "B": "Fototropisme",
@@ -9338,10 +9338,10 @@
   {
     "id": 780,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Gerakan menutupnya daun putri malu (Mimosa pudica) secara mendadak saat mendapatkan rangsangan berupa sentuhan fisik dikategorikan sebagai gerak...",
+    "question": "Gerakan menutupnya daun putri malu dikategorikan sebagai gerak?",
     "options": {
       "A": "Fotonasti",
-      "B": "Seismonasti (Tigmonasti)",
+      "B": "Seismonasti",
       "C": "Termonasti",
       "D": "Niktinasti"
     },
@@ -9350,7 +9350,7 @@
   {
     "id": 781,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Hormon pertumbuhan pada tumbuhan yang memiliki peran utama dalam merangsang pemanjangan sel, pembentukan akar lateral, dan dominansi apikal adalah...",
+    "question": "Hormon pertumbuhan pada tumbuhan yang berfungsi merangsang pemanjangan sel, pembentukan akar lateral adalah...",
     "options": {
       "A": "Sitokinin",
       "B": "Ausin",
@@ -9362,7 +9362,7 @@
   {
     "id": 782,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Hormon tanaman berbentuk gas yang bertanggung jawab penuh dalam mempercepat proses pematangan pada buah-buahan dinamakan...",
+    "question": "Hormon tanaman berbentuk gas yang bertanggung jawab mempercepat proses pematangan pada buah-buahan?",
     "options": {
       "A": "Gas Metana",
       "B": "Gas Etilen",
@@ -9374,10 +9374,10 @@
   {
     "id": 783,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Komunitas vegetasi pohon-pohon pesisir pantai yang memiliki adaptasi khusus berupa akar napas (pneumatofor) untuk bertahan di lingkungan berlumpur dan berkadar garam tinggi adalah...",
+    "question": "Komunitas vegetasi pohon-pohon pesisir pantai yang memiliki adaptasi khusus berupa akar napas...",
     "options": {
       "A": "Hutan Sabana",
-      "B": "Hutan Mangrove (Bakau)",
+      "B": "Hutan Mangrove",
       "C": "Hutan Hujan Tropis",
       "D": "Hutan Gugur"
     },
@@ -9386,7 +9386,7 @@
   {
     "id": 784,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Organel sel khusus yang hanya ditemukan pada sel tumbuhan dan berfungsi sebagai tempat berlangsungnya proses fotosintesis dinamakan...",
+    "question": "Organel sel khusus tumbuhan dan berfungsi sebagai tempat berlangsungnya fotosintesis dinamakan...",
     "options": {
       "A": "Mitokondria",
       "B": "Kloroplas",
@@ -9398,7 +9398,7 @@
   {
     "id": 785,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Peristiwa pelepasan uap air dari jaringan tumbuhan ke atmosfer luar melalui stomata daun akibat pengaruh suhu lingkungan dinamakan...",
+    "question": "Peristiwa pelepasan uap air dari jaringan tumbuhan ke atmosfer luar melalui stomata daun dinamakan...",
     "options": {
       "A": "Evaporasi",
       "B": "Transpirasi",
@@ -9410,7 +9410,7 @@
   {
     "id": 786,
     "category": "Ilmu Pengetahuan Alam",
-    "question": "Jenis tumbuhan non-vaskular yang belum memiliki akar, batang, dan daun sejati, serta bereproduksi menggunakan spora dalam siklus metagenesisnya adalah...",
+    "question": "Jenis tumbuhan non-vaskular yang belum memiliki akar, batang, dan daun adalah...",
     "options": {
       "A": "Tumbuhan Paku (Pteridophyta)",
       "B": "Lumut (Bryophyta)",
@@ -9422,19 +9422,19 @@
   {
     "id": 787,
     "category": "Ilmu Komunikasi",
-    "question": "Model komunikasi paling klasik dan linier (satu arah) yang dirumuskan pada tahun 1948 dengan formula terkenal 'Who says what in which channel to whom with what effect' adalah model...",
+    "question": "Model komunikasi paling klasik dan linier, dirumuskan pada tahun 1948 adalah model...",
     "options": {
       "A": "Model Shannon dan Weaver",
       "B": "Model Lasswell",
       "C": "Model Schramm",
-      "D": "Model Berlo (SMCR)"
+      "D": "Model Berlo"
     },
     "answer": "B"
   },
   {
     "id": 788,
     "category": "Ilmu Komunikasi",
-    "question": "Proses penerjemahan atau penginterpretasian kembali simbol-simbol dan pesan yang diterima oleh komunikan agar dapat dipahami maknanya disebut...",
+    "question": "Proses penerjemahan kembali simbol dan pesan yang diterima oleh komunikan disebut...",
     "options": {
       "A": "Encoding",
       "B": "Decoding",
@@ -9446,10 +9446,10 @@
   {
     "id": 789,
     "category": "Ilmu Komunikasi",
-    "question": "Segala bentuk gangguan atau hambatan dalam proses komunikasi yang menyebabkan pesan yang dikirimkan berbeda dengan pesan yang diterima dinamakan...",
+    "question": "Segala bentuk gangguan proses komunikasi yang menyebabkan pesan yang dikirimkan berbeda dinamakan...",
     "options": {
       "A": "Media",
-      "B": "Noise (Gangguan)",
+      "B": "Noise",
       "C": "Efek",
       "D": "Konteks"
     },
@@ -9458,7 +9458,7 @@
   {
     "id": 790,
     "category": "Ilmu Komunikasi",
-    "question": "Jenis komunikasi yang terjadi di dalam diri individu sendiri, berupa proses berpikir, merenung, mengingat, dan berdialog dengan diri sendiri disebut komunikasi...",
+    "question": "Komunikasi dalam diri sendiri, berupa proses berpikir, merenung, mengingat, dan berdialog dengan diri sendiri disebut?",
     "options": {
       "A": "Interpersonal",
       "B": "Intrapersonal",
@@ -9470,7 +9470,7 @@
   {
     "id": 791,
     "category": "Ilmu Komunikasi",
-    "question": "Komunikasi yang dilakukan tanpa menggunakan kata-kata, melainkan melalui ekspresi wajah, bahasa tubuh (kinesik), kontak mata, dan intonasi suara disebut komunikasi...",
+    "question": "Komunikasi melalui ekspresi wajah, bahasa tubuh (kinesik), kontak mata, dan intonasi suara disebut?",
     "options": {
       "A": "Verbal",
       "B": "Nonverbal",
@@ -9482,7 +9482,7 @@
   {
     "id": 792,
     "category": "Ilmu Komunikasi",
-    "question": "Teori komunikasi massa yang menyatakan bahwa media massa memiliki kekuatan yang sangat besar dan langsung dalam memengaruhi audiensi yang pasif seperti menyuntikkan obat dinamakan Teori...",
+    "question": "Media massa memiliki kekuatan yang sangat besar dan langsung dalam memengaruhi audiensi dinamakan Teori?",
     "options": {
       "A": "Agenda Setting",
       "B": "Jarum Hipodermik (Bullet Theory)",
@@ -9494,7 +9494,7 @@
   {
     "id": 793,
     "category": "Ilmu Komunikasi",
-    "question": "Teori media massa yang digagas oleh Maxwell McCombs dan Donald Shaw, menyatakan bahwa apa yang dianggap penting oleh media akan dianggap penting pula oleh masyarakat, adalah teori...",
+    "question": "Teori media massa yang digagas oleh Maxwell McCombs dan Donald Shaw?",
     "options": {
       "A": "Teori Kultivasi",
       "B": "Teori Agenda Setting",
@@ -9506,7 +9506,7 @@
   {
     "id": 794,
     "category": "Ilmu Komunikasi",
-    "question": "Proses pengubahan ide, pikiran, atau perasaan ke dalam bentuk kode atau simbol berbentuk verbal maupun nonverbal oleh komunikator sebelum dikirimkan disebut...",
+    "question": "Proses pengubahan ide, pikiran, atau perasaan ke dalam bentuk kode atau simbol disebut?",
     "options": {
       "A": "Decoding",
       "B": "Encoding",
@@ -9518,10 +9518,10 @@
   {
     "id": 795,
     "category": "Ilmu Komunikasi",
-    "question": "Tanggapan atau respons balik yang diberikan oleh penerima pesan (komunikan) kepada pengirim pesan (komunikator) setelah menerima pesan disebut...",
+    "question": "Tanggapan yang diberikan oleh penerima pesan kepada pengirim pesan setelah menerima pesan disebut...",
     "options": {
       "A": "Stimulus",
-      "B": "Feedback (Umpan Balik)",
+      "B": "Feedback",
       "C": "Channel",
       "D": "Efek"
     },
@@ -9530,7 +9530,7 @@
   {
     "id": 796,
     "category": "Ilmu Komunikasi",
-    "question": "Studi mengenai penggunaan ruang, jarak personal, dan wilayah (teritori) dalam interaksi komunikasi antarmanusia dinamakan...",
+    "question": "Studi mengenai penggunaan ruang, jarak personal, dan wilayah dinamakan...",
     "options": {
       "A": "Kinesik",
       "B": "Proksemik",
@@ -9542,7 +9542,7 @@
   {
     "id": 797,
     "category": "Ilmu Komunikasi",
-    "question": "Teori komunikasi massa dari George Gerbner yang menyatakan bahwa paparan media televisi secara terus-menerus dapat membentuk persepsi penonton tentang realitas dunia sekitarnya disebut Teori...",
+    "question": "Teori komunikasi massa dari George Gerbner tentang paparan media televisi secara konstan dapat membentuk persepsi penonton?",
     "options": {
       "A": "Teori Kritis",
       "B": "Teori Kultivasi (Cultivation Theory)",
@@ -9554,10 +9554,10 @@
   {
     "id": 798,
     "category": "Ilmu Komunikasi",
-    "question": "Komunikasi yang berlangsung antara dua orang atau lebih secara tatap muka (face-to-face), di mana umpan balik dapat terjadi secara langsung dan seketika dinamakan komunikasi...",
+    "question": "Komunikasi yang berlangsung antara dua orang atau lebih secara tatap muka?",
     "options": {
       "A": "Intrapersonal",
-      "B": "Antarperbadi (Interpersonal)",
+      "B": "Antarperbadi",
       "C": "Organisasi",
       "D": "Massa"
     },
@@ -9566,7 +9566,7 @@
   {
     "id": 799,
     "category": "Ilmu Komunikasi",
-    "question": "Hambatan komunikasi yang terjadi karena adanya perbedaan arti, makna, atau interpretasi bahasa dan istilah antara komunikator dan komunikan disebut hambatan...",
+    "question": "Hambatan komunikasi yang terjadi karena adanya perbedaan arti, makna, atau interpretasi bahasa dan istilah?",
     "options": {
       "A": "Fisik",
       "B": "Semantik",
@@ -9578,7 +9578,7 @@
   {
     "id": 800,
     "category": "Ilmu Komunikasi",
-    "question": "Istilah dalam ilmu jurnalistik dan komunikasi yang merujuk pada individu atau kelompok yang menyaring, menyeleksi, serta mengontrol arus informasi sebelum disiarkan ke publik dinamakan...",
+    "question": "Istilah dalam ilmu jurnalistik dan komunikasi yang merujuk individu atau kelompok yang menyaring, menyeleksi, serta mengontrol arus informasi?",
     "options": {
       "A": "Opinion Leader",
       "B": "Gatekeeper",
@@ -9590,7 +9590,7 @@
   {
     "id": 801,
     "category": "Ilmu Komunikasi",
-    "question": "Teori komunikasi yang membalikkan asumsi bahwa khalayak bersifat pasif, dengan berfokus pada mengapa masyarakat aktif memilih media tertentu untuk memenuhi kebutuhan mereka adalah teori...",
+    "question": "Teori komunikasi yang membalikkan asumsi bahwa khalayak bersifat pasif?",
     "options": {
       "A": "Teori Kultivasi",
       "B": "Teori Uses and Gratifications",
@@ -9602,7 +9602,7 @@
   {
     "id": 802,
     "category": "Ilmu Komunikasi",
-    "question": "Pendekatan atau gaya komunikasi tertulis dan lisan yang dilakukan secara formal, terstruktur, dan birokratis di lingkungan lembaga resmi atau perusahaan besar merupakan karakteristik komunikasi...",
+    "question": "Gaya komunikasi tertulis dan lisan yang dilakukan secara formal, terstruktur, dan birokratis?",
     "options": {
       "A": "Massa",
       "B": "Organisasi",
@@ -9614,7 +9614,7 @@
   {
     "id": 803,
     "category": "Ilmu Komunikasi",
-    "question": "Studi komunikasi yang berfokus pada bagaimana pesan nonverbal disampaikan melalui sentuhan fisik kulit, seperti jabat tangan, dekapan, atau pukulan ringan dinamakan...",
+    "question": "Studi komunikasi yang berfokus pada bagaimana pesan nonverbal disampaikan melalui sentuhan fisik kulit?",
     "options": {
       "A": "Kinesik",
       "B": "Haptik",
@@ -9626,7 +9626,7 @@
   {
     "id": 804,
     "category": "Ilmu Komunikasi",
-    "question": "Model komunikasi matematis yang dikembangkan untuk kebutuhan telekomunikasi pada tahun 1949, menggambarkan komunikasi sebagai proses linier mekanis dari sumber ke pemancar adalah model...",
+    "question": "Model komunikasi matematis yang dikembangkan pada tahun 1949, komunikasi sebagai proses linier mekanis dari sumber ke pemancar adalah model...",
     "options": {
       "A": "Model Lasswell",
       "B": "Model Shannon dan Weaver",
@@ -9638,7 +9638,7 @@
   {
     "id": 805,
     "category": "Ilmu Komunikasi",
-    "question": "Fungsi utama dari kegiatan komunikasi massa yang bertujuan untuk mendidik, menyebarkan ilmu pengetahuan, dan membentuk nilai-nilai sosial budaya di masyarakat disebut fungsi...",
+    "question": "Fungsi utama dari komunikasi massa yang bertujuan mendidik, menyebarkan pengetahuan, dan membentuk nilai sosial budaya disebut fungsi?",
     "options": {
       "A": "Pengawasan (Surveillance)",
       "B": "Transmisi Budaya (Sosialisasi)",
@@ -9650,10 +9650,10 @@
   {
     "id": 806,
     "category": "Ilmu Komunikasi",
-    "question": "Teori dari Elisabeth Noelle-Neumann yang menyatakan bahwa orang cenderung menyembunyikan opininya jika mereka merasa opini tersebut merupakan minoritas karena takut terisolasi dinamakan teori...",
+    "question": "Teori dari Elisabeth Noelle-Neumann yang menyatakan bahwa orang cenderung menyembunyikan opininya",
     "options": {
       "A": "Teori Kritis",
-      "B": "Spiral Keheningan (Spiral of Silence)",
+      "B": "Spiral Keheningan",
       "C": "Teori Penetrasi Sosial",
       "D": "Teori Atribusi"
     },
@@ -9662,7 +9662,7 @@
   {
     "id": 807,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan resmi dari lembaga negara DPR yang berfungsi sebagai pemegang kekuasaan legislatif di Indonesia?",
+    "question": "Apakah kepanjangan resmi dari DPR?",
     "options": {
       "A": "Dewan Pemilihan Rakyat",
       "B": "Dewan Perwakilan Rakyat",
@@ -9674,7 +9674,7 @@
   {
     "id": 808,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BUMN, yaitu badan usaha yang seluruh atau sebagian besar modalnya dimiliki oleh negara melalui penyertaan secara langsung?",
+    "question": "Apakah kepanjangan dari BUMN?",
     "options": {
       "A": "Badan Usaha Milik Negara",
       "B": "Badan Usaha Mandiri Negara",
@@ -9686,7 +9686,7 @@
   {
     "id": 809,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari KPK, lembaga negara yang dibentuk dengan tujuan meningkatkan daya guna dan hasil guna terhadap upaya pemberantasan tindak pidana korupsi?",
+    "question": "Apakah kepanjangan dari KPK?",
     "options": {
       "A": "Komisi Pemantau Korupsi",
       "B": "Komisi Pemberantasan Korupsi",
@@ -9698,7 +9698,7 @@
   {
     "id": 810,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BMKG, badan pemerintah non-kementerian yang bertugas mengamati fenomena cuaca, iklim, gempabumi, dan tsunami di Indonesia?",
+    "question": "Apakah kepanjangan dari BMKG?",
     "options": {
       "A": "Badan Meteorologi, Klimatologi, dan Geofisika",
       "B": "Badan Meteorologi, Komunikasi, dan Geologi",
@@ -9710,7 +9710,7 @@
   {
     "id": 811,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari KPU, lembaga nasional yang menyelenggarakan pemilihan umum di Indonesia?",
+    "question": "Apakah kepanjangan dari KPU?",
     "options": {
       "A": "Komisi Pemilihan Umum",
       "B": "Komisi Penyelenggara Umum",
@@ -9722,7 +9722,7 @@
   {
     "id": 812,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari TNI, angkatan bersenjata negara Indonesia yang bertugas menjaga kedaulatan wilayah NKRI?",
+    "question": "Apakah kepanjangan dari TNI?",
     "options": {
       "A": "Tentara Nasional Indonesia",
       "B": "Tentara Negara Indonesia",
@@ -9734,7 +9734,7 @@
   {
     "id": 813,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BIN, lembaga pemerintah non-kementerian Indonesia yang bertugas melaksanakan tugas pemerintahan di bidang intelijen?",
+    "question": "Apakah kepanjangan dari BIN?",
     "options": {
       "A": "Badan Intelijen Negara",
       "B": "Badan Investigasi Negara",
@@ -9746,7 +9746,7 @@
   {
     "id": 814,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari KRL, moda transportasi massal berbasis rel listrik yang sangat populer di wilayah Jabodetabek?",
+    "question": "Apakah kepanjangan dari KRL?",
     "options": {
       "A": "Kereta Rel Listrik",
       "B": "Kereta Raya Listrik",
@@ -9758,7 +9758,7 @@
   {
     "id": 815,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BPS, lembaga pemerintah non-kementerian yang bertanggung jawab langsung kepada Presiden dalam menyediakan data statistik formal?",
+    "question": "Apakah kepanjangan dari BPS?",
     "options": {
       "A": "Badan Pusat Statistik",
       "B": "Badan Pengelola Statistik",
@@ -9770,7 +9770,7 @@
   {
     "id": 816,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BPJS, badan hukum publik yang dibentuk untuk menyelenggarakan program jaminan sosial kesehatan dan ketenagakerjaan?",
+    "question": "Apakah kepanjangan dari BPJS?",
     "options": {
       "A": "Badan Penyelenggara Jaminan Sosial",
       "B": "Badan Pengelola Jaminan Sosial",
@@ -9782,7 +9782,7 @@
   {
     "id": 817,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari Kemenkomdigi, kementerian yang sebelumnya bernama Kementerian Komunikasi dan Informatika (Kominfo)?",
+    "question": "Apakah kepanjangan dari Kemenkomdigi?",
     "options": {
       "A": "Kementerian Komunikasi dan Digital",
       "B": "Kementerian Komputasi dan Digital",
@@ -9794,7 +9794,7 @@
   {
     "id": 818,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BASARNAS, badan pemerintah yang memiliki tugas pokok melaksanakan pembinaan, koordinasi, dan pengendalian operasi SAR dalam pencarian dan pertolongan?",
+    "question": "Apakah kepanjangan dari BASARNAS?",
     "options": {
       "A": "Badan Nasional Pencarian dan Pertolongan",
       "B": "Badan SAR Nasional",
@@ -9806,7 +9806,7 @@
   {
     "id": 819,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari AMDAL, kajian mengenai dampak besar dan penting suatu usaha dan/atau kegiatan yang direncanakan pada lingkungan hidup?",
+    "question": "Apakah kepanjangan dari AMDAL?",
     "options": {
       "A": "Analisis Mengenai Dampak Lingkungan Hidup",
       "B": "Analisis Masalah Dampak Lingkungan",
@@ -9818,7 +9818,7 @@
   {
     "id": 820,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari OJK, lembaga independen yang mempunyai fungsi, tugas, dan wewenang pengaturan, pengawasan, pemeriksaan, dan penyidikan terhadap sektor jasa keuangan?",
+    "question": "Apakah kepanjangan dari OJK?",
     "options": {
       "A": "Otoritas Jasa Keuangan",
       "B": "Organisasi Jasa Keuangan",
@@ -9830,7 +9830,7 @@
   {
     "id": 821,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BPK, lembaga negara dalam sistem ketatanegaraan Indonesia yang memiliki wewenang memeriksa pengelolaan dan tanggung jawab keuangan negara?",
+    "question": "Apakah kepanjangan dari BPK?",
     "options": {
       "A": "Badan Pemeriksa Keuangan",
       "B": "Badan Pengawas Keuangan",
@@ -9842,7 +9842,7 @@
   {
     "id": 822,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari Puskemas, unit pelaksana teknis dinas kesehatan kabupaten/kota yang bertanggung jawab menyelenggarakan pembangunan kesehatan di suatu wilayah kerja?",
+    "question": "Apakah kepanjangan dari Puskemas?",
     "options": {
       "A": "Pusat Kesehatan Masyarakat",
       "B": "Pusat Kesehatan Manusia",
@@ -9854,7 +9854,7 @@
   {
     "id": 823,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BNN, sebuah Lembaga Pemerintah Non-Kementerian (LPNK) Indonesia yang mempunyai tugas melaksanakan tugas pemerintahan di bidang pencegahan dan pemberantasan penyalahgunaan narkotika?",
+    "question": "Apakah kepanjangan dari BNN?",
     "options": {
       "A": "Badan Narkotika Nasional",
       "B": "Badan Narkoba Nasional",
@@ -9866,7 +9866,7 @@
   {
     "id": 824,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari APBD, rencana keuangan tahunan pemerintah daerah di Indonesia yang disetujui oleh Dewan Perwakilan Rakyat Daerah?",
+    "question": "Apakah kepanjangan dari APBD?",
     "options": {
       "A": "Anggaran Pendapatan dan Belanja Daerah",
       "B": "Alokasi Pembiayaan dan Belanja Daerah",
@@ -9878,7 +9878,7 @@
   {
     "id": 825,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari PNS, pegawai yang telah memenuhi syarat yang ditentukan, diangkat oleh pejabat yang berwenang dan diserahi tugas dalam suatu jabatan negeri?",
+    "question": "Apakah kepanjangan dari PNS?",
     "options": {
       "A": "Pegawai Negeri Sipil",
       "B": "Pegawai Negara Sipil",
@@ -9890,7 +9890,7 @@
   {
     "id": 826,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BNPB, lembaga pemerintah non-kementerian yang mempunyai tugas membantu Presiden dalam mengoordinasikan perencanaan dan pelaksanaan kegiatan mitigasi dan penanganan bencana?",
+    "question": "Apakah kepanjangan dari BNPB?",
     "options": {
       "A": "Badan Nasional Penanggulangan Bencana",
       "B": "Badan Nasional Pengawas Bencana",
@@ -9902,7 +9902,7 @@
   {
     "id": 827,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BRIN, lembaga pemerintah non-kementerian yang berada di bawah dan bertanggung jawab kepada Presiden dalam mengintegrasikan riset dan inovasi nasional?",
+    "question": "Apakah kepanjangan dari BRIN?",
     "options": {
       "A": "Badan Riset dan Inovasi Nasional",
       "B": "Badan Riset dan Ilmu Nasional",
@@ -9914,7 +9914,7 @@
   {
     "id": 828,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari LKPP, Lembaga Pemerintah Non-Kementerian yang bertugas melaksanakan pengembangan dan perumusan kebijakan pengadaan barang/jasa pemerintah?",
+    "question": "Apakah kepanjangan dari LKPP?",
     "options": {
       "A": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
       "B": "Lembaga Kelayakan Pengadaan Pemerintah",
@@ -9926,7 +9926,7 @@
   {
     "id": 829,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BPOM, lembaga yang memiliki tugas menyelenggarakan tugas pemerintahan di bidang pengawasan obat dan makanan?",
+    "question": "Apakah kepanjangan dari BPOM?",
     "options": {
       "A": "Badan Pengawas Obat dan Makanan",
       "B": "Badan Pengelola Obat dan Makanan",
@@ -9938,7 +9938,7 @@
   {
     "id": 830,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari SIM, bukti registrasi dan identifikasi yang diberikan oleh Polri kepada seseorang yang telah memenuhi persyaratan untuk mengemudikan kendaraan bermotor?",
+    "question": "Apakah kepanjangan dari SIM?",
     "options": {
       "A": "Surat Izin Mengemudi",
       "B": "Surat Izin Mengendarai",
@@ -9950,7 +9950,7 @@
   {
     "id": 831,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari STNK, tanda bukti pendaftaran dan pengesahan kendaraan bermotor berdasarkan identitas pemiliknya yang diterbitkan di Indonesia?",
+    "question": "Apakah kepanjangan dari STNK?",
     "options": {
       "A": "Surat Tanda Nomor Kendaraan",
       "B": "Surat Tanda Naik Kendaraan",
@@ -9962,7 +9962,7 @@
   {
     "id": 832,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BPKB, dokumen yang diterbitkan oleh Satuan Lalu Lintas Polri sebagai bukti kepemilikan sah atas sebuah kendaraan bermotor?",
+    "question": "Apakah kepanjangan dari BPKB?",
     "options": {
       "A": "Buku Pemilik Kendaraan Bermotor",
       "B": "Bukti Pemilikan Kendaraan Bermotor",
@@ -9974,7 +9974,7 @@
   {
     "id": 833,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari KK, dokumen milik keluarga yang memuat data tentang susunan, hubungan, dan jumlah anggota keluarga yang wajib dimiliki setiap warga negara Indonesia?",
+    "question": "Apakah kepanjangan dari KK?",
     "options": {
       "A": "Kartu Keluarga",
       "B": "Kepala Keluarga",
@@ -9986,7 +9986,7 @@
   {
     "id": 834,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari NPWP, nomor yang diberikan kepada wajib pajak sebagai sarana dalam administrasi perpajakan di Indonesia?",
+    "question": "Apakah kepanjangan dari NPWP?",
     "options": {
       "A": "Nomor Pokok Wajib Pajak",
       "B": "Nomor Pengenal Wajib Pajak",
@@ -9998,7 +9998,7 @@
   {
     "id": 835,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari SKCK, surat keterangan resmi yang diterbitkan oleh Polri untuk menerangkan ada atau tidaknya catatan kriminalitas seseorang?",
+    "question": "Apakah kepanjangan dari SKCK?",
     "options": {
       "A": "Surat Keterangan Catatan Kepolisian",
       "B": "Surat Keterangan Kelakuan Baik",
@@ -10010,7 +10010,7 @@
   {
     "id": 836,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari KTP, identitas resmi seseorang sebagai penduduk yang diterbitkan oleh Dinas Kependudukan dan Pencatatan Sipil di Indonesia?",
+    "question": "Apakah kepanjangan dari KTP?",
     "options": {
       "A": "Kartu Tanda Penduduk",
       "B": "Kartu Tanda Personal",
@@ -10022,7 +10022,7 @@
   {
     "id": 837,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari PDAM, unit usaha milik daerah yang bergerak dalam distribusi air bersih bagi masyarakat umum?",
+    "question": "Apakah kepanjangan dari PDAM?",
     "options": {
       "A": "Perusahaan Daerah Air Minum",
       "B": "Pengelola Daerah Air Minum",
@@ -10034,7 +10034,7 @@
   {
     "id": 838,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari PLN, Badan Usaha Milik Negara yang memegang monopoli distribusi dan penyediaan energi listrik di Indonesia?",
+    "question": "Apakah kepanjangan dari PLN?",
     "options": {
       "A": "Perusahaan Listrik Negara",
       "B": "Pusat Listrik Negara",
@@ -10046,7 +10046,7 @@
   {
     "id": 839,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari POLRI, kepolisian nasional di Indonesia yang bertanggung jawab langsung di bawah Presiden dalam menjaga keamanan publik?",
+    "question": "Apakah kepanjangan dari POLRI?",
     "options": {
       "A": "Kepolisian Negara Republik Indonesia",
       "B": "Polisi Republik Indonesia",
@@ -10058,7 +10058,7 @@
   {
     "id": 840,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari BAWASLU, lembaga penyelenggara Pemilu yang bertugas mengawasi penyelenggaraan Pemilu di seluruh wilayah Indonesia?",
+    "question": "Apakah kepanjangan dari BAWASLU?",
     "options": {
       "A": "Badan Pengawas Pemilihan Umum",
       "B": "Badan Pengawal Pemilihan Umum",
@@ -10070,7 +10070,7 @@
   {
     "id": 841,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari MK, lembaga peradilan tinggi tingkat negara yang berwenang melakukan pengujian undang-undang terhadap UUD 1945?",
+    "question": "Apakah kepanjangan dari MK?",
     "options": {
       "A": "Mahkamah Konstitusi",
       "B": "Mahkamah Agung",
@@ -10082,7 +10082,7 @@
   {
     "id": 842,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari MA, lembaga peradilan tertinggi di Indonesia yang membawahi badan peradilan umum, agama, militer, dan tata usaha negara?",
+    "question": "Apakah kepanjangan dari MA?",
     "options": {
       "A": "Mahkamah Agung",
       "B": "Mahkamah Konstitusi",
@@ -10094,7 +10094,7 @@
   {
     "id": 843,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari KY, lembaga negara yang dibentuk untuk mengusulkan pengangkatan hakim agung dan menjaga kehormatan serta perilaku hakim?",
+    "question": "Apakah kepanjangan dari KY?",
     "options": {
       "A": "Komisi Yudisial",
       "B": "Komisi Yuridis",
@@ -10106,7 +10106,7 @@
   {
     "id": 844,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari IKN, wilayah daratan baru yang ditetapkan sebagai ibu kota masa depan Indonesia menggantikan Jakarta?",
+    "question": "Apakah kepanjangan dari IKN?",
     "options": {
       "A": "Ibu Kota Nusantara",
       "B": "Ibu Kota Nasional",
@@ -10118,7 +10118,7 @@
   {
     "id": 845,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari PSSI, organisasi induk yang bertanggung jawab mengelola dan mengawasi aktivitas olahraga sepak bola di Indonesia?",
+    "question": "Apakah kepanjangan dari PSSI?",
     "options": {
       "A": "Persatuan Sepakbola Seluruh Indonesia",
       "B": "Perserikatan Sepakbola Seluruh Indonesia",
@@ -10130,7 +10130,7 @@
   {
     "id": 846,
     "category": "Pengetahuan Umum",
-    "question": "Apakah kepanjangan dari PBSI, induk organisasi olahraga nasional yang menaungi cabang olahraga bulu tangkis di Indonesia?",
+    "question": "Apakah kepanjangan dari PBSI?",
     "options": {
       "A": "Persatuan Bulutangkis Seluruh Indonesia",
       "B": "Perserikatan Bulutangkis Seluruh Indonesia",
