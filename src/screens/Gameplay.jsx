@@ -155,7 +155,7 @@ export default function Gameplay({ playerData, onFinish }) {
       <div className="bg-[#FAFAFA] w-full max-w-[400px] rounded-[2.5rem] shadow-2xl p-5 flex flex-col h-[720px] max-h-[95vh] relative overflow-hidden">
         
         {/* HEADER SECTION */}
-        <div className="flex items-center justify-between mb-4">
+        <div className="flex items-center justify-between mb-3"> {/* Mengurangi mb-4 menjadi mb-3 */}
           <div className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-xl overflow-hidden border-2 border-orange-200 bg-white">
                 <img src={avatarSrc} alt="User" className="w-full h-full object-cover" />
@@ -177,12 +177,14 @@ export default function Gameplay({ playerData, onFinish }) {
 
         <TimerBar duration={5} timeLeft={timeLeft} />
 
-        <div className="bg-white rounded-[2rem] p-6 shadow-[0_15px_40px_-10px_rgba(0,0,0,0.04)] border border-gray-50 flex-1 flex flex-col justify-center items-center text-center relative mb-5">
-            <span className="text-[10px] font-black text-[#4EA3E7] uppercase tracking-[0.2em] mb-3">{currentQuiz.category}</span>
-            <h2 className="text-xl font-black text-gray-800 tracking-tight leading-tight px-1">{currentQuiz.question}</h2>
+        {/* BOX SOAL: Menyesuaikan font ke text-sm (tablet text-base) & padding p-4 untuk menghemat ruang vertikal */}
+        <div className="bg-white rounded-[1.75rem] p-4 shadow-[0_15px_40px_-10px_rgba(0,0,0,0.04)] border border-gray-50 flex-1 flex flex-col justify-center items-center text-center relative mb-3">
+            <span className="text-[9px] font-black text-[#4EA3E7] uppercase tracking-[0.2em] mb-2">{currentQuiz.category}</span>
+            <h2 className="text-sm sm:text-base font-bold text-center text-gray-800 leading-relaxed px-2">{currentQuiz.question}</h2>
         </div>
 
-        <div className="flex flex-col gap-2.5 mb-5">
+        {/* KCONTAINER OPSI: Rapatkan gap-2.5 menjadi gap-2, dan mt-4 menjadi mt-2 */}
+        <div className="flex flex-col gap-2 mt-2 w-full">
           {Object.entries(currentQuiz.options).map(([id, label]) => {
             let btnStyle = 'bg-white border-gray-100 hover:border-gray-200';
             let badgeStyle = 'bg-gray-100 border-gray-200 text-gray-400';
@@ -201,24 +203,27 @@ export default function Gameplay({ playerData, onFinish }) {
             }
 
             return (
-              <button key={id} disabled={isAnswered} onClick={() => handleAnswerClick(id)} className={`w-full p-3.5 rounded-2xl flex items-center justify-between border-2 transition-all ${btnStyle}`}>
+              /* TOMBOL OPSI: Mengecilkan padding p-3.5 menjadi p-2.5, rounded-2xl menjadi rounded-xl */
+              <button key={id} disabled={isAnswered} onClick={() => handleAnswerClick(id)} className={`w-full p-2.5 rounded-xl flex items-center justify-between border-2 transition-all ${btnStyle}`}>
                 <div className="flex flex-col items-start leading-tight">
-                  <span className="text-[9px] font-bold text-gray-400 uppercase mb-0.5">Option {id}</span>
-                  <span className="text-base font-black text-gray-700">{label}</span>
+                  <span className="text-[8px] font-bold text-gray-400 uppercase mb-0.5">Option {id}</span>
+                  {/* FONT OPSI: Mengecilkan dari text-base menjadi text-sm */}
+                  <span className="text-sm font-bold text-gray-700 text-left leading-snug">{label}</span>
                 </div>
-                <div className={`w-6 h-6 rounded-full flex items-center justify-center border-2 text-xs font-bold ${badgeStyle}`}>
-                  {isAnswered && isCorrectOption ? <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M5 13l4 4L19 7"></path></svg> : isAnswered && selectedOption === id ? 'X' : id}
+                <div className={`w-5 h-5 rounded-full flex items-center justify-center border-2 text-[10px] font-bold flex-shrink-0 ml-2 ${badgeStyle}`}>
+                  {isAnswered && isCorrectOption ? <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M5 13l4 4L19 7"></path></svg> : isAnswered && selectedOption === id ? 'X' : id}
                 </div>
               </button>
             );
           })}
         </div>
 
-        <div className="mt-auto flex flex-col items-center justify-center min-h-[50px]">
+        {/* BOTTOM FOOTER SECTION: Mengecilkan min-h-[50px] menjadi min-h-[35px] */}
+        <div className="mt-auto flex flex-col items-center justify-center min-h-[35px]">
             {isAnswered ? (
-              <p className="text-xs font-extrabold text-[#EE9432] animate-pulse flex items-center gap-1.5 py-2">Preparing next question...</p>
+              <p className="text-[11px] font-extrabold text-[#EE9432] animate-pulse flex items-center gap-1.5 py-1">Preparing next question...</p>
             ) : (
-              <p className="text-[11px] font-bold text-gray-400 italic py-2">{timeLeft === 0 ? "Time's up! 😮" : 'Think fast, clock is ticking! ⚡'}</p>
+              <p className="text-[10px] font-bold text-gray-400 italic py-1">{timeLeft === 0 ? "Time's up! 😮" : 'Think fast, clock is ticking! ⚡'}</p>
             )}
         </div>
 
