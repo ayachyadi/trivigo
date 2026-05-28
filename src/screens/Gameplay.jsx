@@ -178,7 +178,7 @@ export default function Gameplay({ playerData, onFinish }) {
         <TimerBar duration={5} timeLeft={timeLeft} />
 
         {/* BOX SOAL: Menyesuaikan font ke text-sm (tablet text-base) & padding p-4 untuk menghemat ruang vertikal */}
-        <div className="bg-white rounded-[1.75rem] p-4 shadow-[0_15px_40px_-10px_rgba(0,0,0,0.04)] border border-gray-50 flex-1 flex flex-col justify-center items-center text-center relative mb-3">
+        <div className="bg-white rounded-[1.75rem] p-4 shadow-[0_15px_40px_-10px_rgba(0,0,0,0.04)] border border-gray-50 flex-none h-auto flex flex-col justify-center items-center text-center relative mb-2 min-h-[110px]">
             <span className="text-[9px] font-black text-[#4EA3E7] uppercase tracking-[0.2em] mb-2">{currentQuiz.category}</span>
             <h2 className="text-sm sm:text-base font-bold text-center text-gray-800 leading-relaxed px-2">{currentQuiz.question}</h2>
         </div>
@@ -204,17 +204,34 @@ export default function Gameplay({ playerData, onFinish }) {
 
             return (
               /* TOMBOL OPSI: Mengecilkan padding p-3.5 menjadi p-2.5, rounded-2xl menjadi rounded-xl */
-              <button key={id} disabled={isAnswered} onClick={() => handleAnswerClick(id)} className={`w-full p-2.5 rounded-xl flex items-center justify-between border-2 transition-all ${btnStyle}`}>
-                <div className="flex flex-col items-start leading-tight">
-                  <span className="text-[8px] font-bold text-gray-400 uppercase mb-0.5">Option {id}</span>
-                  {/* FONT OPSI: Mengecilkan dari text-base menjadi text-sm */}
-                  <span className="text-sm font-bold text-gray-700 text-left leading-snug">{label}</span>
-                </div>
-                <div className={`w-5 h-5 rounded-full flex items-center justify-center border-2 text-[10px] font-bold flex-shrink-0 ml-2 ${badgeStyle}`}>
-                  {isAnswered && isCorrectOption ? <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M5 13l4 4L19 7"></path></svg> : isAnswered && selectedOption === id ? 'X' : id}
-                </div>
-              </button>
-            );
+              <button 
+    key={id} 
+    disabled={isAnswered} 
+    onClick={() => handleAnswerClick(id)} 
+    className={`w-full p-2.5 rounded-xl flex items-center justify-start border-2 transition-all ${btnStyle}`}
+  >
+    {/* BADGE INDIKATOR HURUFA/B/C/D: Kita pindahkan ke depan (sebelah kiri) agar teks jawaban mengalir secara alami ke kanan */}
+    <div className={`w-5 h-5 rounded-full flex items-center justify-center border-2 text-[10px] font-bold flex-shrink-0 mr-3 ${badgeStyle}`}>
+      {isAnswered && isCorrectOption ? (
+        <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M5 13l4 4L19 7"></path>
+        </svg>
+      ) : isAnswered && selectedOption === id ? (
+        'X'
+      ) : (
+        id
+      )}
+    </div>
+
+    {/* KONTEN TEKS JAWABAN: Dibuat rata kiri, dipaksa satu baris (truncate), dan mengambil sisa ruang (flex-1) */}
+    <div className="flex flex-col items-start leading-tight text-left min-w-0 flex-1">
+      <span className="text-[8px] font-bold text-gray-400 uppercase tracking-wide">Option {id}</span>
+      <span className="text-sm font-bold text-gray-700 truncate w-full block whitespace-nowrap">
+        {label}
+      </span>
+    </div>
+  </button>
+);
           })}
         </div>
 
