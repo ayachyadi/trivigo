@@ -30,7 +30,7 @@ export default function SplashScreen() {
             className="h-20 w-auto mb-3 drop-shadow-sm" 
           />
 
-          <p className="text-gray-400 text-sm font-medium tracking-widest uppercase mb-12">Knowledge is Power</p>
+          <p className="text-gray-400 text-sm font-medium tracking-widest uppercase mb-12">Lo Nggak Mungkin Menang!</p>
           
           {/* Container Bar Loading */}
           <div className="w-48 h-2 bg-gray-200 rounded-full overflow-hidden shadow-inner">
